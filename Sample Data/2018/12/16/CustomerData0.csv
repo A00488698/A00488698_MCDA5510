@@ -1,0 +1,26 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+William,Moore,310,Bloomingdale Terrace,Coquitlam,Newfoundland and Labrador,G3E 2K4,Canada,205821830,William@country.com
+Jacob,Miller,255,Ahern Avenue,St. Catharines,Nunavut,G3H 0B4,Canada,430268315,Jacob@question.com
+Alexander,,467,Bell Road,Saint-JÃ©rÃ´me,Nunavut,N8A 0B3,Canada,1230310523,Alexander@child.com
+Ethan,Anderson,452,Agricola Street,Drummondville,Newfoundland and Labrador,L3V 1Y8,Canada,797801550,Ethan@thing.com
+"",Moore,373,Birchview Drive,Oshawa,Saskatchewan,N8A 0B3,Canada,191148183,null@time.com
+Ethan,Moore,114,Allan Street,Cape Breton,Prince Edward Island,E7E 3T7,Canada,1037283423,Ethan@money.com
+William,,286,Blenheim Terrace,London,Northwest Territories,V8C 0S2,Canada,260909996,William@mother.com
+Jacob,Taylor,159,Beresford Road,Maple Ridge,Quebec,E4M 2G2,Canada,1130847912,Jacob@study.com
+Mason,Anderson,330,Birchwood Drive,Thunder Bay,Newfoundland and Labrador,"L4A 0T3 ",Canada,432887852,Mason@way.com
+James,Williams,456,Birch Street,Blainville,Northwest Territories,"B0T 0Y5 ",Canada,662377051,James@month.com
+Alexander,Anderson,190,Charlotte Lane,Hamilton,Newfoundland and Labrador,G3H 0B4,Canada,888862270,Alexander@people.com
+Liam,Moore,482,Amberwood Court,Winnipeg,Nunavut,E4M 2G2,Canada,362853672,Liam@people.com
+Ethan,Johnson,390,Boscobel Road,Edmonton,New Brunswick,N4N 0B9,Canada,146243633,Ethan@mother.com
+Liam,Johnson,320,Briarwood Crescent,Guelph,Manitoba,B3V 2V1,Canada,480144265,Liam@system.com
+Liam,Wilson,22,Ahern Avenue,Red Deer,Prince Edward Island,T1L 2H8,Canada,1012700374,Liam@book.com
+William,Moore,266,Bower Road,North Vancouver,Northwest Territories,L3V 1Y8,Canada,375827944,William@company.com
+"",,485,Breen Avenue,Cape Breton,Northwest Territories,T1L 2H8,Canada,575119074,null@man.com
+James,Wilson,162,Chain Rock Drive,Terrebonne,Nova Scotia,L9R 0A0,Canada,380128803,James@day.com
+Liam,Miller,202,Belmont Road,Oshawa,Alberta,V8B 1P6,Canada,273924537,Liam@story.com
+Liam,Moore,25,Archibald Avenue,Ajax,Saskatchewan,L3V 1Y8,Canada,361019145,Liam@case.com
+Jacob,Jones,255,Bonaventure Drive,Richmond,,B3V 2V1,Canada,140498931,Jacob@company.com
+Alexander,Thomas,395,Cabot Street,Fredericton,Nunavut,J0J 3V6,Canada,438110142,Alexander@water.com
+Liam,Johnson,429,Carroll Lane,Newmarket,New Brunswick,,Canada,1106976189,Liam@book.com
+"",Jones,257,Alton Drive,,Nunavut,L9R 0A0,Canada,1041078930,null@family.com
+Ethan,Anderson,69,Bauer Street,Sault Ste. Marie,Northwest Territories,L4A 0T0,Canada,547904104,Ethan@week.com

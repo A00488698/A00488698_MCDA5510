@@ -1,0 +1,31 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Jones,454,Bonaventure Drive,Aurora,Saskatchewan,L9R 0A0,Canada,1066678992,James@company.com
+Mason,Jones,260,Bedford Windsor Ramp,Richmond,Nunavut,G3H 0B4,Canada,737731361,Mason@question.com
+James,Thomas,284,Bedford Windsor Ramp,,Nunavut,G6X 2L1,Canada,1170959476,James@way.com
+Alexander,Miller,281,Birchwood Drive,LÃ©vis,,T1L 2H8,Canada,909090280,Alexander@thing.com
+Jacob,Moore,126,Barracks Drive,Oshawa,Prince Edward Island,J9P 1C6,Canada,457347176,Jacob@program.com
+James,Moore,108,Clifton Street,Prince George,,"V1K 1V0 ",Canada,915105232,James@question.com
+Mason,Williams,417,Bond Street,Nanaimo,Northwest Territories,E5V 3X5,Canada,501259179,Mason@state.com
+Liam,Miller,99,Beresford Road,Welland,British Columbia,E4M 2G2,Canada,1245927313,Liam@story.com
+"",Thomas,188,Albert Street,Lethbridge,Alberta,J1S 0R4,Canada,935313256,null@week.com
+Ethan,Brown,231,Alderwood Drive,Granby,Nunavut,G3H 0B4,Canada,900632739,Ethan@problem.com
+Alexander,Jones,241,Aurora Avenue,Saint John,New Brunswick,"L4A 0T3 ",Canada,837185149,Alexander@home.com
+Jacob,Miller,481,Battery Drive,LÃ©vis,Prince Edward Island,E7E 3T7,Canada,273901072,Jacob@hand.com
+Alexander,Anderson,400,Bryden Avenue,Brantford,Nunavut,J0J 3V6,Canada,1226814248,Alexander@world.com
+Mason,Moore,256,Angus L Macdonald Bridge,Trois-RiviÃ¨res,British Columbia,E4S 3C4,Canada,1231133345,Mason@night.com
+James,Jones,307,Carroll Lane,North Bay,Northwest Territories,H0H 3C9,Canada,246321196,James@fact.com
+"",Brown,386,Amirault Court,Vancouver,Prince Edward Island,G3H 0B4,Canada,843108016,null@Mr.com
+James,Jones,55,Claymore Avenue,Calgary,Nunavut,E7E 3T7,Canada,138726187,James@man.com
+"",Brown,161,Castine Way,Coquitlam,Newfoundland and Labrador,V8C 0S2,Canada,1017467024,null@money.com
+"",,92,Beech Street,Quebec City,Nunavut,,Canada,789638939,null@work.com
+Ethan,Miller,3,Circle Drive,Brantford,Saskatchewan,K1B 3B2,Canada,580301644,Ethan@month.com
+Mason,Jones,399,Alton Drive,Milton,Saskatchewan,J9P 1C6,Canada,694854743,Mason@book.com
+"",Moore,149,Church Street,Mirabel,Nunavut,G3E 2K4,Canada,186565443,null@place.com
+William,Jones,443,Admirals Way,Edmonton,Newfoundland and Labrador,E5V 3X5,Canada,805315614,William@word.com
+"",Taylor,329,Bedros Lane,Belleville,Prince Edward Island,N8H 2H6,Canada,208339618,null@fact.com
+Liam,Jones,436,Armoury Place,Mirabel,Alberta,"L4A 0T3 ",Canada,906211700,Liam@Mr.com
+Ethan,,12,Abrams Way,Lethbridge,Alberta,G3E 2K4,Canada,842022784,Ethan@thing.com
+Ethan,Jones,12,Birchdale Avenue,Red Deer,Northwest Territories,E4M 2G2,Canada,1372141882,Ethan@eye.com
+William,Wilson,447,Bronson Avenue,Richmond Hill,Nunavut,E7E 3T7,Canada,1161674659,William@country.com
+James,Jackson,301,Bromley Road,Cape Breton,Saskatchewan,E5V 3X5,Canada,717475550,James@case.com
+Ethan,Taylor,93,Benalder Lane,Airdrie,Alberta,G3E 2K4,Canada,1391844013,Ethan@man.com

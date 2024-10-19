@@ -1,0 +1,37 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Jackson,221,Adams Avenue,Belleville,Quebec,K1B 3B2,Canada,825447456,James@story.com
+Jacob,,10,Abrams Way,Waterloo,Manitoba,J0N 0Z3,Canada,802947995,Jacob@world.com
+Ethan,Williams,153,Brockhurst Close,Medicine Hat,Alberta,E4M 2G2,Canada,1303996433,Ethan@night.com
+James,Davis,193,Bently Drive,Burlington,Saskatchewan,G3H 0B4,Canada,995376114,James@week.com
+Ethan,Moore,309,Bison Crescent,Laval,Quebec,L9R 0A0,Canada,715664544,Ethan@mother.com
+Ethan,Anderson,429,Bilby Street,Terrebonne,,"B0T 0Y5 ",Canada,365507715,Ethan@eye.com
+William,Thomas,249,Blue Jay Street,Winnipeg,Nunavut,L4A 0T0,Canada,308917435,William@group.com
+"",Davis,15,Albert Street,Barrie,Nunavut,B2E 0X4,Canada,697175644,null@school.com
+James,Johnson,176,Brockhurst Close,London,Nunavut,"V1K 1V0 ",Canada,448994879,James@system.com
+"",Moore,267,Cartaret Street,Waterloo,British Columbia,L0N 3J2,Canada,164981604,null@point.com
+Ethan,Davis,213,Bonaventure Drive,Fredericton,,B3V 2V1,Canada,1213610828,Ethan@question.com
+Alexander,Taylor,309,Bright Place,Saskatoon,New Brunswick,J9P 1C6,Canada,580252780,Alexander@week.com
+Ethan,Jackson,354,Carnation Crescent,Montreal,Saskatchewan,V8C 0S2,Canada,877274824,Ethan@night.com
+Alexander,Jackson,66,Blowers Street,Saskatoon,Northwest Territories,B2E 0X4,Canada,806239488,Alexander@year.com
+James,Thomas,471,Bryden Avenue,Sault Ste. Marie,Nunavut,N4N 0B9,Canada,750895819,James@fact.com
+William,Thomas,452,Cedar Street,Cape Breton,,N8H 2H6,Canada,1135013300,William@child.com
+"",Moore,488,Battery 18th Road,Moncton,Nova Scotia,H3J 3P2,Canada,353128564,null@company.com
+Mason,Jackson,114,Chester Avenue,Niagara Falls,Nunavut,H9S 1R4,Canada,528512524,Mason@life.com
+Alexander,Anderson,70,Brycedale Lane,Pickering,Alberta,G0H 2P3,Canada,249880268,Alexander@week.com
+James,Williams,15,Armcrescent West Avenue,Greater Sudbury,Yukon,V8C 0S2,Canada,1185267460,James@hand.com
+William,Miller,492,Belmont Road,Winnipeg,Yukon,N8A 0B3,Canada,1031139849,William@company.com
+Liam,Anderson,391,Briarwood Crescent,Drummondville,Newfoundland and Labrador,T1L 2H8,Canada,707481599,Liam@home.com
+"",Anderson,445,Bryden Avenue,Niagara Falls,Saskatchewan,,Canada,1318113672,null@world.com
+Liam,Brown,369,Bonaventure Drive,Vancouver,Quebec,V8C 0S2,Canada,592241327,Liam@question.com
+William,Johnson,386,Battery Drive,Cambridge,,"V1K 1V0 ",Canada,1110773412,William@group.com
+Alexander,Moore,470,Armdale Rotary,Gatineau,Northwest Territories,J1S 0R4,Canada,1022153701,Alexander@story.com
+Liam,Williams,290,Blue Jay Street,Quebec City,British Columbia,"V1K 1V0 ",Canada,299763589,Liam@story.com
+Jacob,,220,Clayton Park Drive,Regina,Quebec,H3J 3P2,Canada,1127190009,Jacob@government.com
+Mason,Thomas,32,Abrams Way,Sault Ste. Marie,Manitoba,E4S 3C4,Canada,1377355668,Mason@time.com
+James,Taylor,487,Armcrescent East Drive,Richmond Hill,Alberta,L9R 0A0,Canada,1291512125,James@group.com
+"",,26,Alm-c Ramp,Halton Hills,,G0H 2P3,Canada,1041895114,null@time.com
+Jacob,Taylor,467,Albion Road,Kelowna,Saskatchewan,L0N 3J2,Canada,1316101015,Jacob@room.com
+Liam,Davis,113,Alm-c Ramp,Saint-JÃ©rÃ´me,Northwest Territories,H0H 3C9,Canada,1069333201,Liam@life.com
+Ethan,Thomas,354,Bright Place,Waterloo,New Brunswick,H9S 1R4,Canada,626276378,Ethan@job.com
+Ethan,Anderson,201,Agricola Street,Montreal,New Brunswick,J9P 1C6,Canada,776489841,Ethan@story.com
+Liam,Jones,32,Barrington Street,Fredericton,Alberta,H3J 3P2,Canada,1149232481,Liam@case.com

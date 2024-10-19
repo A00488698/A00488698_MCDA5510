@@ -1,0 +1,15 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+William,Wilson,47,Birches Drive,Oshawa,Prince Edward Island,J0N 0Z3,Canada,1150927108,William@point.com
+Alexander,Johnson,358,Bloomingdale Terrace,Winnipeg,Newfoundland and Labrador,G0H 2P3,Canada,1243603376,Alexander@company.com
+Mason,Williams,433,Barclay Avenue,St. Catharines,Saskatchewan,B2E 0X4,Canada,290823011,Mason@part.com
+"",Moore,341,Bakers Drive,Mirabel,Nunavut,E5V 3X5,Canada,841676888,null@system.com
+James,Jackson,117,Benalder Lane,Mississauga,Prince Edward Island,H9S 1R4,Canada,1093597620,James@group.com
+Mason,Williams,385,Circle Drive,Strathcona County,Yukon,N4N 0B9,Canada,258356143,Mason@right.com
+"",Johnson,183,Cambridge Street,Blainville,Northwest Territories,N5C 2J8,Canada,1008574455,null@job.com
+Liam,Anderson,26,Barrington Street,St. John's,Nunavut,T1L 2H8,Canada,1182988101,Liam@study.com
+William,Taylor,5,Charlotte Lane,Brantford,Nova Scotia,H3J 3P2,Canada,933038273,William@Mr.com
+Liam,Williams,127,Balcomes Drive,North Vancouver,New Brunswick,J1S 0R4,Canada,757266482,Liam@place.com
+William,,296,Black Street,Kingston,Nunavut,H3J 3P2,Canada,1031466015,William@child.com
+Ethan,Anderson,255,Blink Bonnie Terrace,North Vancouver,Prince Edward Island,G3E 2K4,Canada,350568692,Ethan@work.com
+Ethan,Johnson,170,Carlina Court,Kelowna,Prince Edward Island,J0N 0Z3,Canada,352794418,Ethan@money.com
+Mason,Anderson,205,Buffers Lane,Terrebonne,Alberta,G0H 2P3,Canada,869366643,Mason@right.com

@@ -1,0 +1,25 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+William,Jones,356,Bluestone Road,Brantford,New Brunswick,K1B 3B2,Canada,1123432957,William@book.com
+Liam,,189,Clovis Avenue,Caledon,Northwest Territories,N8H 2H6,Canada,1029392041,Liam@program.com
+James,Wilson,323,Bristol Place,Ajax,Quebec,L4A 0T0,Canada,1009043167,James@Mr.com
+"",Brown,449,Cambridge Street,Welland,Northwest Territories,T1L 2H8,Canada,1207354034,null@job.com
+Mason,Davis,498,Brenton Street,Kawartha Lakes,Quebec,H0H 3C9,Canada,656583053,Mason@null
+Liam,Anderson,453,Benalder Lane,Barrie,Prince Edward Island,J0J 3V6,Canada,891001365,Liam@day.com
+Liam,Miller,110,Alma Crescent,Saint-Hyacinthe,Alberta,T1L 2H8,Canada,483498020,Liam@point.com
+Ethan,Jones,96,Chestnut Street,Edmonton,Yukon,"V1K 1V0 ",Canada,1267404361,Ethan@student.com
+Mason,Jones,305,Balmoral Road,Barrie,Saskatchewan,"B0T 0Y5 ",Canada,256830075,Mason@part.com
+Alexander,Thomas,50,Alm-c Ramp,Wood Buffalo,Nunavut,,Canada,243177651,Alexander@part.com
+James,Miller,411,Brunswick Street,Sault Ste. Marie,Manitoba,E4M 2G2,Canada,1235523149,James@government.com
+William,Jones,123,Barracks Drive,Guelph,Quebec,G3H 0B4,Canada,1349144079,William@people.com
+Jacob,Jackson,66,Balwearie Lane,Sarnia,Prince Edward Island,J0J 3V6,Canada,1315830365,Jacob@study.com
+"",Moore,240,Cambridge Street,Longueuil,New Brunswick,J0J 3V6,Canada,179011324,null@hand.com
+James,Anderson,264,Bower Road,St. John's,New Brunswick,H0H 3C9,Canada,1166229065,James@time.com
+Mason,Anderson,206,Clifton Street,Maple Ridge,Prince Edward Island,L4A 0T0,Canada,367432169,Mason@program.com
+"",Jones,369,Bermuda Avenue,Kamloops,Nunavut,J0N 0Z3,Canada,1228477444,null@system.com
+Jacob,Thomas,299,Cloverdale Road,,Prince Edward Island,K1B 3B2,Canada,510801774,Jacob@school.com
+Alexander,Thomas,411,Carriageway Crescent,Cambridge,Northwest Territories,T1L 2H8,Canada,170490908,Alexander@family.com
+Ethan,Jones,347,Bakers Drive,Montreal,Prince Edward Island,"L4A 0T3 ",Canada,1069765864,Ethan@book.com
+Jacob,Moore,476,Brockhurst Close,Wood Buffalo,Nunavut,H3J 3P2,Canada,966228545,Jacob@woman.com
+Jacob,Moore,453,Bently Drive,Edmonton,Manitoba,"V1K 1V0 ",Canada,1253311322,Jacob@year.com
+Ethan,Taylor,260,Beech Street,Thunder Bay,New Brunswick,G3H 0B4,Canada,307474322,Ethan@time.com
+William,Davis,85,Adelaide Avenue,Blainville,Nova Scotia,E4S 3C4,Canada,1220743908,William@story.com

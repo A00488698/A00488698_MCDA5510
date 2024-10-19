@@ -1,0 +1,21 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Ethan,Johnson,16,Caitland Court,Sherbrooke,New Brunswick,N8A 0B3,Canada,735359633,Ethan@word.com
+Liam,Thomas,377,Amberwood Court,Niagara Falls,Saskatchewan,L4A 0T0,Canada,781598065,Liam@day.com
+James,Jones,285,Ascot Avenue,Strathcona County,Northwest Territories,J9T 3H4,Canada,400143408,James@Mr.com
+Liam,Williams,124,Cloverdale Road,Red Deer,Northwest Territories,B2E 0X4,Canada,321696993,Liam@question.com
+Ethan,Jackson,96,Claymore Avenue,Newmarket,Newfoundland and Labrador,,Canada,1405494975,Ethan@state.com
+Ethan,Anderson,289,Brodick Lane,Clarington,Newfoundland and Labrador,L0N 3J2,Canada,893048818,Ethan@night.com
+Ethan,Moore,156,Cedar Street,Saint-Hyacinthe,,H3J 3P2,Canada,362616171,Ethan@Mr.com
+Jacob,Thomas,427,Ahern Avenue,Kawartha Lakes,New Brunswick,H0H 3C9,Canada,914861063,Jacob@group.com
+"",Moore,199,Alm-a Ramp,Prince George,Manitoba,V8C 0S2,Canada,606355977,null@state.com
+Ethan,Taylor,183,Cairnwell Close,Thunder Bay,Northwest Territories,G3H 0B4,Canada,151916450,Ethan@people.com
+James,Anderson,160,Almon Street,Halifax,Nunavut,H0H 3C9,Canada,1082100166,James@home.com
+Ethan,Wilson,175,Bedford Highway,Caledon,Nunavut,E7E 3T7,Canada,1391719101,Ethan@country.com
+James,Anderson,106,Birchview Drive,Kawartha Lakes,Prince Edward Island,J1S 0R4,Canada,626199587,James@point.com
+Ethan,Brown,321,Central Avenue,Waterloo,Yukon,J0N 0Z3,Canada,968173962,Ethan@money.com
+Ethan,Davis,307,Burgee Run,Pickering,Newfoundland and Labrador,B2E 0X4,Canada,1028672390,Ethan@question.com
+Ethan,Jones,457,Argyle Street,Quebec City,Northwest Territories,B3V 2V1,Canada,645766001,Ethan@program.com
+Liam,Anderson,327,Archibald Avenue,Richmond Hill,Quebec,B2E 0X4,Canada,222794737,Liam@null
+William,Moore,313,Chartwell Lane,Cape Breton,Yukon,L3V 1Y8,Canada,883701897,William@man.com
+James,,397,Aukland Place,Mirabel,Yukon,N8A 0B3,Canada,173620098,James@company.com
+William,,49,Church Street,Delta,Newfoundland and Labrador,,Canada,549660067,William@job.com

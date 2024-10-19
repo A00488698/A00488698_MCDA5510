@@ -1,0 +1,31 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,,379,Cardiff Place,LÃ©vis,Nunavut,J9T 3H4,Canada,633161825,James@business.com
+Jacob,Davis,319,,Saanich,New Brunswick,,Canada,667556341,Jacob@life.com
+Mason,Davis,431,Beresford Road,Milton,Nunavut,N4N 0B9,Canada,958526636,Mason@group.com
+Liam,Jones,484,Abrams Way,Saint-Jean-sur-Richelieu,Quebec,B3V 2V1,Canada,1290663295,Liam@right.com
+Liam,Williams,11,Briar Lane,Kingston,Prince Edward Island,,Canada,1038424081,Liam@book.com
+William,Anderson,107,Archibald Avenue,New Westminster,Manitoba,,Canada,820727664,William@child.com
+Ethan,Jones,332,Chadwick Place,Fredericton,Manitoba,B2E 0X4,Canada,1372590235,Ethan@book.com
+Jacob,Jackson,266,Albert Street,Fredericton,Newfoundland and Labrador,N8A 0B3,Canada,1312708094,Jacob@eye.com
+"",Thomas,83,Ashton Lane,Peterborough,Saskatchewan,K1B 3B2,Canada,822168820,null@null
+Liam,Williams,449,Bond Street,Welland,Alberta,H3J 3P2,Canada,167739733,Liam@program.com
+James,Johnson,57,Clearview Street,Gatineau,Newfoundland and Labrador,N8A 0B3,Canada,1394694830,James@word.com
+"",Jackson,409,Armada Drive,Cape Breton,Newfoundland and Labrador,"B0T 0Y5 ",Canada,375647559,null@family.com
+"",Anderson,340,Briarwood Crescent,Greater Sudbury,Newfoundland and Labrador,"L4A 0T3 ",Canada,888879081,null@month.com
+"",Jones,274,Circle Drive,Hamilton,Prince Edward Island,L3V 1Y8,Canada,1079813279,null@week.com
+Liam,Jackson,161,Bayview Road,Ottawa,New Brunswick,G3E 2K4,Canada,1267859326,Liam@people.com
+"",Thomas,449,Acorn Road,Saguenay,Nova Scotia,H3J 3P2,Canada,940420805,null@program.com
+Ethan,Jones,445,Chelsea Lane,Burlington,Prince Edward Island,N5C 2J8,Canada,219534889,Ethan@child.com
+Ethan,Brown,358,Autumn Drive,Regina,Manitoba,G3H 0B4,Canada,756823115,Ethan@home.com
+Ethan,Anderson,34,Atlantic Street,Caledon,Quebec,G6X 2L1,Canada,743267609,Ethan@life.com
+Jacob,Williams,452,Braeside Lane,Whitby,British Columbia,"V1K 1V0 ",Canada,280666331,Jacob@lot.com
+Liam,Jones,276,Arvida Avenue,Trois-RiviÃ¨res,Yukon,L9R 0A0,Canada,305503031,Liam@group.com
+Liam,Williams,420,Carmichael Street,Airdrie,Northwest Territories,N8A 0B3,Canada,719525002,Liam@book.com
+Ethan,,299,Ashton Lane,Markham,Newfoundland and Labrador,J9T 3H4,Canada,879315757,Ethan@student.com
+Alexander,Davis,275,Armcrescent West Avenue,Quebec City,Prince Edward Island,J1S 0R4,Canada,347774484,Alexander@way.com
+Mason,Jackson,378,Cambridge Street,Milton,Northwest Territories,N8H 2H6,Canada,450858926,Mason@mother.com
+Alexander,,63,Aster Court,Brampton,Nunavut,T1L 2H8,Canada,883819331,Alexander@group.com
+Ethan,,166,Bishop Street,Welland,Nova Scotia,"B0T 0Y5 ",Canada,1010244891,Ethan@home.com
+James,Moore,200,Apollo Court,Brantford,Alberta,J9P 1C6,Canada,378576097,James@state.com
+Jacob,Wilson,158,Breen Avenue,Brantford,Prince Edward Island,E7E 3T7,Canada,891865747,Jacob@country.com
+James,Thomas,395,Bloomingdale Terrace,Nanaimo,Alberta,"B0T 0Y5 ",Canada,1399210531,James@story.com

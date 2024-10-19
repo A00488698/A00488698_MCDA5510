@@ -1,0 +1,21 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Alexander,Moore,294,Annandale Street,Red Deer,Alberta,T1L 2H8,Canada,534232108,Alexander@part.com
+Mason,Taylor,346,Ballantrae Lane,Aurora,Alberta,J9T 3H4,Canada,100931232,Mason@day.com
+Liam,Miller,451,Bishop Street,Halton Hills,New Brunswick,J9P 1C6,Canada,726046205,Liam@money.com
+Jacob,Williams,232,Charles Street,Saint-Hyacinthe,New Brunswick,"V1K 1V0 ",Canada,1202898310,Jacob@part.com
+James,Brown,380,Bloomingdale Terrace,Saint John,Prince Edward Island,L0N 3J2,Canada,570683083,James@life.com
+Liam,,255,Chisholm Avenue,Burlington,British Columbia,G6X 2L1,Canada,732101926,Liam@book.com
+James,Johnson,345,Brook Street,Welland,New Brunswick,K1B 3B2,Canada,644496967,James@part.com
+Liam,Jackson,198,Boulderwood Road,Gatineau,Manitoba,H0H 3C9,Canada,724392352,Liam@woman.com
+Mason,Thomas,230,Chadwick Place,St. Catharines,Nunavut,E5V 3X5,Canada,332160679,Mason@school.com
+William,Wilson,153,Bobolink Street,Winnipeg,Prince Edward Island,V8C 0S2,Canada,1023945403,William@group.com
+Jacob,Jones,181,Bloomfield Street,Fredericton,Northwest Territories,J0N 0Z3,Canada,1299977225,Jacob@water.com
+James,Jones,251,Alm-b Ramp,North Vancouver,Alberta,G3E 2K4,Canada,1068393212,James@system.com
+Alexander,Anderson,303,Briar Lane,Vancouver,Manitoba,J0N 0Z3,Canada,745393592,Alexander@state.com
+Ethan,Anderson,296,Brockhurst Close,Moncton,Northwest Territories,V8B 1P6,Canada,322519742,Ethan@number.com
+"",Johnson,261,Ahern Avenue,Fredericton,Manitoba,N8A 0B3,Canada,1188621620,null@story.com
+James,Thomas,143,Aster Court,Port Coquitlam,Alberta,N8A 0B3,Canada,878823813,James@country.com
+Alexander,Williams,270,Armview Avenue,Saint-Hyacinthe,Newfoundland and Labrador,T1L 2H8,Canada,723318737,Alexander@case.com
+Jacob,,418,Burns Drive,Surrey,Nova Scotia,E5V 3X5,Canada,740158482,Jacob@story.com
+Jacob,Williams,361,Birmingham Street,Port Coquitlam,Nunavut,E4S 3C4,Canada,281687765,Jacob@life.com
+Alexander,Wilson,456,Bridgeview Drive,Drummondville,Newfoundland and Labrador,N4N 0B9,Canada,643245226,Alexander@state.com

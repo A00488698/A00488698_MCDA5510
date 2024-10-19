@@ -1,0 +1,28 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Davis,390,Alton Drive,Vaughan,Northwest Territories,G3E 2K4,Canada,166907300,James@part.com
+Ethan,Wilson,169,Chocolate Lake Road,Richmond,British Columbia,N8H 2H6,Canada,1100209275,Ethan@case.com
+Ethan,Davis,157,Chestnut Street,Halifax,Nunavut,G3H 0B4,Canada,1016337190,Ethan@woman.com
+Jacob,Thomas,469,Armview Terrace,Brampton,Nunavut,L9R 0A0,Canada,1220253148,Jacob@time.com
+William,Davis,332,Bison Crescent,Kawartha Lakes,Northwest Territories,E7E 3T7,Canada,783610315,William@problem.com
+Alexander,Wilson,300,Castlepark Grove,Thunder Bay,Northwest Territories,N4N 0B9,Canada,1313195915,Alexander@program.com
+Ethan,Taylor,429,Castlepark Grove,Guelph,Saskatchewan,V8B 1P6,Canada,798123633,Ethan@story.com
+Ethan,Brown,476,Central Avenue,Kawartha Lakes,British Columbia,L3V 1Y8,Canada,718337909,Ethan@family.com
+Alexander,Johnson,161,Castine Way,Medicine Hat,Alberta,,Canada,904151041,Alexander@book.com
+"",Thomas,203,Clayder Lane,Kitchener,Manitoba,L9R 0A0,Canada,852901063,null@Mr.com
+"",Jackson,232,Bayne St Ramp,Lethbridge,Nunavut,"B0T 0Y5 ",Canada,656144904,null@family.com
+Mason,Jones,287,Ashdale Avenue,Norfolk County,Saskatchewan,"L4A 0T3 ",Canada,485727108,Mason@state.com
+Jacob,Jones,149,Barracks Drive,Maple Ridge,Alberta,L3V 1Y8,Canada,416739234,Jacob@man.com
+William,,291,Clinton Avenue,Drummondville,Nova Scotia,"V1K 1V0 ",Canada,404040944,William@family.com
+Liam,Moore,7,Castle Hill Drive,,Nunavut,E4S 3C4,Canada,677510140,Liam@child.com
+Alexander,Miller,44,Braeside Lane,Granby,New Brunswick,"L4A 0T3 ",Canada,1218557911,Alexander@day.com
+James,Brown,393,Cabot Back Lane,Oshawa,Northwest Territories,E4S 3C4,Canada,1100846442,James@study.com
+Mason,,277,Bosun Run,Maple Ridge,Alberta,T1L 2H8,Canada,498808761,Mason@life.com
+James,Jackson,181,Brussels Street,Belleville,Nova Scotia,J9P 1C6,Canada,923582686,James@word.com
+James,Brown,287,Agricola Street,Longueuil,Northwest Territories,J0N 0Z3,Canada,988451513,James@home.com
+Mason,Taylor,181,Alton Drive,Saint-JÃ©rÃ´me,Yukon,"B0T 0Y5 ",Canada,1357254552,Mason@man.com
+James,Jackson,348,Brodick Lane,Waterloo,British Columbia,B2E 0X4,Canada,1240850438,James@business.com
+William,Jones,275,Amberwood Court,Caledon,British Columbia,B3V 2V1,Canada,453411338,William@case.com
+James,Wilson,305,Brewer Court,Quebec City,Nunavut,E5V 3X5,Canada,1409003862,James@book.com
+Mason,Anderson,33,Bell Road,Niagara Falls,Nunavut,H0H 3C9,Canada,1350400306,Mason@time.com
+Mason,Brown,183,Bosun Run,Grande Prairie,New Brunswick,K1B 3B2,Canada,336563747,Mason@world.com
+Jacob,Wilson,387,Blue Willow Court,Port Coquitlam,Newfoundland and Labrador,,Canada,507216411,Jacob@fact.com

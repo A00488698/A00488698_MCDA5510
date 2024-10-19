@@ -1,0 +1,22 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Ethan,Williams,258,Aikenhead Road,Waterloo,British Columbia,J0J 3V6,Canada,1030560728,Ethan@mother.com
+Ethan,Taylor,336,Carlina Court,Ajax,Saskatchewan,T1L 2H8,Canada,973422235,Ethan@job.com
+Liam,Jackson,240,Bedford Highway,Newmarket,Alberta,E5V 3X5,Canada,970396895,Liam@case.com
+Alexander,Taylor,437,Ahern Avenue,Sherbrooke,New Brunswick,N4N 0B9,Canada,561631270,Alexander@woman.com
+Ethan,Jackson,457,Clearview Street,Delta,Quebec,L4A 0T0,Canada,134493316,Ethan@problem.com
+Alexander,Jackson,215,Birchfield Crescent,Drummondville,Alberta,G0H 2P3,Canada,451439748,Alexander@mother.com
+James,Miller,356,Burgee Run,Granby,Northwest Territories,L9R 0A0,Canada,573836491,James@week.com
+Mason,Jackson,4,Camelot Lane,Saint John,Northwest Territories,L0N 3J2,Canada,1143433485,Mason@thing.com
+Alexander,Jackson,289,Basinview Drive,Oshawa,Newfoundland and Labrador,N4N 0B9,Canada,1013953440,Alexander@month.com
+Alexander,,154,Cabot Place,Quebec City,Prince Edward Island,E7E 3T7,Canada,1033303362,Alexander@family.com
+"",,51,Bland Street,Norfolk County,Northwest Territories,N5C 2J8,Canada,289226471,null@point.com
+"",Wilson,167,Blue Jay Street,Richmond,Prince Edward Island,T1L 2H8,Canada,143254907,null@world.com
+Jacob,Jones,424,Braeburn Road,Saskatoon,Yukon,N8A 0B3,Canada,631019053,Jacob@hand.com
+James,Thomas,199,Campbell Drive,Saguenay,Quebec,L9R 0A0,Canada,860142387,James@story.com
+"",Jones,401,Bedros Lane,London,Manitoba,J0J 3V6,Canada,662318497,null@mother.com
+Mason,Anderson,310,Bedford Highway Ramp,Saanich,Prince Edward Island,N8H 2H6,Canada,343126049,Mason@business.com
+Jacob,Miller,26,Charles Street,Saint-Jean-sur-Richelieu,Northwest Territories,"V1K 1V0 ",Canada,222700154,Jacob@work.com
+James,Wilson,351,Bently Drive,Saint-Hyacinthe,Northwest Territories,L9R 0A0,Canada,1269548034,James@mother.com
+"",Moore,224,Chebucto Lane,Saint John,Nova Scotia,E4M 2G2,Canada,1402678554,null@thing.com
+"",,71,Brussels Street,Kawartha Lakes,Nova Scotia,E4S 3C4,Canada,683758541,null@eye.com
+"",Jones,43,Chain Rock Drive,Cape Breton,Saskatchewan,G6X 2L1,Canada,1067833954,null@government.com

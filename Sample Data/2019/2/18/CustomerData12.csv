@@ -1,0 +1,43 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Jacob,Miller,250,Clayder Lane,Gatineau,Prince Edward Island,G3E 2K4,Canada,842246316,Jacob@number.com
+Liam,Williams,489,Binney Street,Peterborough,Alberta,H0H 3C9,Canada,862521535,Liam@part.com
+Mason,Davis,160,Caxton Close,Peterborough,Yukon,N5C 2J8,Canada,416978506,Mason@business.com
+Jacob,Taylor,224,Benjamin Green Drive,Langley,Nunavut,"L4A 0T3 ",Canada,1032267621,Jacob@problem.com
+Mason,Anderson,100,Albion Road,Kawartha Lakes,Yukon,N5C 2J8,Canada,1339990818,Mason@thing.com
+Ethan,Davis,280,Castle Hill Drive,Cambridge,Prince Edward Island,L0N 3J2,Canada,648008048,Ethan@day.com
+Jacob,Davis,234,Ahern Avenue,Port Coquitlam,Nunavut,G3E 2K4,Canada,640229098,Jacob@government.com
+James,Miller,176,Barkton Lane,North Vancouver,Quebec,N5C 2J8,Canada,142247032,James@word.com
+Mason,Miller,460,Battery 18th Road,Saguenay,Manitoba,V8C 0S2,Canada,265840958,Mason@part.com
+"",Wilson,500,Alex Street,Quebec City,British Columbia,E4M 2G2,Canada,724014283,null@company.com
+"",Williams,15,Armada Drive,Burlington,Nunavut,L9R 0A0,Canada,1214018404,null@study.com
+Ethan,,108,Brockhurst Close,Oakville,Newfoundland and Labrador,L0N 3J2,Canada,1156992156,Ethan@mother.com
+Ethan,Jones,150,Berkshire Close,Markham,Nova Scotia,G3E 2K4,Canada,1218485672,Ethan@thing.com
+"",Jones,165,Buffers Lane,Montreal,Newfoundland and Labrador,V8B 1P6,Canada,900596204,null@night.com
+Mason,Jackson,337,Ardwell Avenue,Guelph,British Columbia,H0H 3C9,Canada,980277266,Mason@woman.com
+Ethan,Davis,381,Brenton Street,Sarnia,Quebec,,Canada,758487947,Ethan@company.com
+William,Jones,221,Blenheim Terrace,Grande Prairie,Prince Edward Island,"L4A 0T3 ",Canada,429403414,William@state.com
+Mason,Anderson,93,Brigadier Court,Welland,Northwest Territories,G6X 2L1,Canada,385239787,Mason@study.com
+James,Miller,358,Cascade Drive,Grande Prairie,Northwest Territories,J0N 0Z3,Canada,1062818023,James@world.com
+Alexander,Miller,262,Caxton Close,North Bay,Northwest Territories,B3V 2V1,Canada,1298025447,Alexander@place.com
+Alexander,,2,Bell Road,Edmonton,New Brunswick,E5V 3X5,Canada,529086423,Alexander@time.com
+"",Thomas,491,Buffers Lane,Peterborough,Newfoundland and Labrador,V8B 1P6,Canada,816566777,null@place.com
+Jacob,Williams,440,Birchdale Avenue,Saint John,Nova Scotia,,Canada,580042771,Jacob@family.com
+Ethan,Brown,357,Brunswick Street,Mirabel,New Brunswick,B3V 2V1,Canada,430400918,Ethan@program.com
+Ethan,Moore,307,Carmichael Street,Clarington,Nova Scotia,E4M 2G2,Canada,1038266989,Ethan@people.com
+Liam,Johnson,494,Acadia Street,Saint John,Northwest Territories,"B0T 0Y5 ",Canada,983362616,Liam@world.com
+Ethan,Davis,116,Attenborough Court,Medicine Hat,Northwest Territories,N5C 2J8,Canada,998577496,Ethan@life.com
+Ethan,Williams,460,Cherry Street,Brampton,Manitoba,T1L 2H8,Canada,436694707,Ethan@home.com
+Ethan,Johnson,24,Black Street,Sault Ste. Marie,New Brunswick,N8H 2H6,Canada,693750604,Ethan@question.com
+Jacob,Jones,421,Armview Avenue,Regina,Nunavut,J1S 0R4,Canada,856272688,Jacob@question.com
+James,Wilson,460,Church Street,London,Nova Scotia,B2E 0X4,Canada,1185202155,James@case.com
+Liam,Williams,287,Benjamin Green Drive,Drummondville,Prince Edward Island,L9R 0A0,Canada,1032586642,Liam@right.com
+Ethan,Brown,464,Birchwood Drive,Windsor,Nunavut,N8H 2H6,Canada,223758282,Ethan@right.com
+"",Taylor,244,Bedford Highway Ramp,Medicine Hat,Newfoundland and Labrador,N8A 0B3,Canada,611741642,null@business.com
+William,Wilson,99,Breen Avenue,New Westminster,Alberta,E5V 3X5,Canada,1223680816,William@life.com
+Alexander,Davis,155,Brussels Street,St. Albert,Northwest Territories,L4A 0T0,Canada,377462678,Alexander@word.com
+"",Jones,419,Abrams Way,North Vancouver,Alberta,L4A 0T0,Canada,218067443,null@country.com
+Liam,Wilson,465,Cedarbank Terrace,Waterloo,,E4S 3C4,Canada,477050342,Liam@hand.com
+Jacob,Jones,35,Brycedale Lane,Calgary,Alberta,N8H 2H6,Canada,816256789,Jacob@student.com
+Jacob,Jones,498,Aurora Avenue,Richmond,Nova Scotia,E4M 2G2,Canada,719284850,Jacob@right.com
+Ethan,Williams,162,Birches Drive,,New Brunswick,J0J 3V6,Canada,156630729,Ethan@way.com
+"",Wilson,391,Annandale Street,Sault Ste. Marie,Manitoba,E5V 3X5,Canada,708144353,null@Mr.com

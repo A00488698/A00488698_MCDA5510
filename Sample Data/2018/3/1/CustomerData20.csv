@@ -1,0 +1,31 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+"",Taylor,160,Bloomingdale Terrace,Aurora,Prince Edward Island,G0H 2P3,Canada,330681394,null@night.com
+Alexander,Jones,358,Bright Place,Moncton,Quebec,N5C 2J8,Canada,650534831,Alexander@family.com
+William,Miller,326,Birkdale Crescent,Moncton,Northwest Territories,E4S 3C4,Canada,1114980471,William@book.com
+Jacob,Taylor,385,Ashburn Avenue,Clarington,Northwest Territories,G3H 0B4,Canada,519036681,Jacob@school.com
+Ethan,Brown,433,Bronson Avenue,Surrey,Alberta,V8C 0S2,Canada,117669081,Ethan@part.com
+"",Jones,209,Chipstone Close,Pickering,Yukon,N8H 2H6,Canada,552602744,null@question.com
+Liam,,228,Acadia Street,Thunder Bay,British Columbia,E5V 3X5,Canada,1361025657,Liam@book.com
+"",Thomas,422,Ahern Avenue,Aurora,Nova Scotia,J0N 0Z3,Canada,1256670864,null@hand.com
+Alexander,Davis,201,Barclay Avenue,Saint-Jean-sur-Richelieu,British Columbia,G0H 2P3,Canada,185799461,Alexander@man.com
+James,Williams,413,Charles Street,Milton,Yukon,V8B 1P6,Canada,753831405,James@woman.com
+Ethan,Taylor,424,Avon Crescent,Whitby,New Brunswick,,Canada,1256358450,Ethan@work.com
+Jacob,Wilson,452,Birchwood Drive,Kingston,Northwest Territories,E5V 3X5,Canada,849825691,Jacob@book.com
+Alexander,Williams,409,Clearview Street,Langley,New Brunswick,E4M 2G2,Canada,828950370,Alexander@time.com
+"",Williams,202,Catamaran Road,Cape Breton,Prince Edward Island,G0H 2P3,Canada,1014862295,null@woman.com
+William,Jones,365,Arthur Street,North Vancouver,Nunavut,E4S 3C4,Canada,144763105,William@room.com
+Alexander,Taylor,326,Bermuda Avenue,Mississauga,Alberta,H9S 1R4,Canada,139478482,Alexander@study.com
+Ethan,Thomas,480,Aster Court,Surrey,,H9S 1R4,Canada,1000202498,Ethan@part.com
+William,Wilson,246,Canterbury Close,Mirabel,British Columbia,L0N 3J2,Canada,923129825,William@story.com
+"",Williams,310,Belmont Road,Repentigny,New Brunswick,B2E 0X4,Canada,886633998,null@group.com
+Liam,Taylor,258,Boulderwood Road,Greater Sudbury,Nunavut,V8B 1P6,Canada,1294403046,Liam@book.com
+Jacob,Thomas,174,Armview Avenue,Longueuil,Newfoundland and Labrador,G3H 0B4,Canada,629334961,Jacob@year.com
+Ethan,Wilson,450,Cherry Lane,Quebec City,Northwest Territories,V8C 0S2,Canada,119565536,Ethan@week.com
+Ethan,Anderson,47,Bland Street,Oakville,Nova Scotia,J9T 3H4,Canada,101778829,Ethan@problem.com
+Ethan,Williams,422,Chebucto Road,Kelowna,Nunavut,V8B 1P6,Canada,603841339,Ethan@place.com
+"",,130,Black Street,Calgary,Alberta,E7E 3T7,Canada,974292737,null@man.com
+"",Davis,97,Brodick Lane,Coquitlam,Saskatchewan,H3J 3P2,Canada,480167575,null@money.com
+"",Thomas,59,Chocolate Lake Road,Sherbrooke,New Brunswick,L3V 1Y8,Canada,371620563,null@place.com
+Liam,Johnson,263,Alm-a Ramp,Cape Breton,Prince Edward Island,T1L 2H8,Canada,226461384,Liam@world.com
+James,Thomas,85,Armview Terrace,Sarnia,Nunavut,J9T 3H4,Canada,343581133,James@story.com
+Liam,Jones,323,Bristol Place,St. Catharines,Prince Edward Island,"B0T 0Y5 ",Canada,1319086262,Liam@day.com

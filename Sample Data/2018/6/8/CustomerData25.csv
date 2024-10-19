@@ -1,0 +1,15 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Jacob,Thomas,194,Carlton Street,Chilliwack,Nunavut,"B0T 0Y5 ",Canada,1166936656,Jacob@thing.com
+Jacob,Wilson,246,Abrams Way,Richmond Hill,Alberta,L4A 0T0,Canada,1008476011,Jacob@hand.com
+James,Anderson,237,Breen Avenue,Cape Breton,Northwest Territories,E4M 2G2,Canada,1138027886,James@system.com
+Ethan,Anderson,98,Abercrombie Lane,Oshawa,Prince Edward Island,H0H 3C9,Canada,762092118,Ethan@hand.com
+Liam,Brown,333,Bridges Street,Kawartha Lakes,Newfoundland and Labrador,E4M 2G2,Canada,828542009,Liam@right.com
+James,Moore,500,Bobolink Street,LÃ©vis,Alberta,B2E 0X4,Canada,1184179460,James@word.com
+William,Wilson,190,Atlantic Street,Kawartha Lakes,British Columbia,J0J 3V6,Canada,936587014,William@case.com
+James,,400,Berlin Street,Sault Ste. Marie,Prince Edward Island,N8H 2H6,Canada,1225172334,James@month.com
+Jacob,Miller,488,Armshore Drive,London,Manitoba,J1S 0R4,Canada,1046270500,Jacob@case.com
+Mason,Taylor,465,Armstrong Court,Longueuil,Northwest Territories,"V1K 1V0 ",Canada,706270689,Mason@null
+"",Thomas,213,Chipstone Close,Red Deer,Alberta,J0N 0Z3,Canada,597745316,null@money.com
+Liam,Anderson,252,Chocolate Lake Road,Cape Breton,Newfoundland and Labrador,J9P 1C6,Canada,1162978849,Liam@home.com
+William,Moore,169,Bond Street,Gatineau,Newfoundland and Labrador,L0N 3J2,Canada,691890481,William@question.com
+James,Moore,339,Brigadier Court,Nanaimo,Nunavut,G0H 2P3,Canada,300655195,James@point.com

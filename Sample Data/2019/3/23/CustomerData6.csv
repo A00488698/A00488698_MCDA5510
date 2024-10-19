@@ -1,0 +1,16 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Alexander,Moore,439,Black Street,Brantford,New Brunswick,J9T 3H4,Canada,308037376,Alexander@year.com
+Mason,Johnson,149,Banbury Close,Blainville,Alberta,J0J 3V6,Canada,888788539,Mason@right.com
+James,Davis,363,Brunswick Street,Greater Sudbury,Saskatchewan,H0H 3C9,Canada,783261997,James@book.com
+Ethan,Jackson,229,Anchor Drive,Hamilton,Saskatchewan,E4S 3C4,Canada,753384747,Ethan@book.com
+Mason,,405,Blue Willow Court,Sault Ste. Marie,Nunavut,H9S 1R4,Canada,152140020,Mason@problem.com
+William,Jones,27,Bishop Street,Quebec City,Prince Edward Island,J1S 0R4,Canada,804384269,William@mother.com
+"",Jackson,153,Claymore Avenue,Clarington,Nova Scotia,,Canada,213817854,null@country.com
+"",Anderson,363,Brewer Court,Brantford,Quebec,J9T 3H4,Canada,1357437222,null@day.com
+James,Williams,69,Castlepark Grove,St. Catharines,Nunavut,E4S 3C4,Canada,461999808,James@system.com
+William,Moore,279,Bedros Lane,Windsor,Northwest Territories,"V1K 1V0 ",Canada,673073850,William@country.com
+Alexander,Jackson,469,Benalder Lane,Ajax,Yukon,H3J 3P2,Canada,1210225496,Alexander@night.com
+Jacob,Thomas,343,Alumni Crescent,Saskatoon,,J1S 0R4,Canada,746055688,Jacob@country.com
+Ethan,Thomas,146,Chain Lake Drive,Surrey,British Columbia,V8C 0S2,Canada,1087517038,Ethan@day.com
+Ethan,Taylor,457,Camelot Lane,Kelowna,Newfoundland and Labrador,"B0T 0Y5 ",Canada,197455491,Ethan@day.com
+Alexander,,365,Bristol Place,Cambridge,Yukon,N8A 0B3,Canada,638570002,Alexander@world.com

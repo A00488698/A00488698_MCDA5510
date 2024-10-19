@@ -1,0 +1,28 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Jacob,Wilson,404,Brunswick Street,Langley,Nunavut,B2E 0X4,Canada,1407636520,Jacob@work.com
+"",,366,Bliss Street,Saint-Jean-sur-Richelieu,New Brunswick,L0N 3J2,Canada,898664045,null@question.com
+Alexander,Jones,419,Cedarbrae Lane,Medicine Hat,British Columbia,J9T 3H4,Canada,726589667,Alexander@woman.com
+Ethan,Johnson,469,Annandale Street,Winnipeg,Saskatchewan,J0N 0Z3,Canada,916438555,Ethan@thing.com
+Alexander,Jones,376,Boscobel Road,Fredericton,Manitoba,"L4A 0T3 ",Canada,950270468,Alexander@time.com
+Jacob,Miller,221,Annandale Street,Medicine Hat,Northwest Territories,L9R 0A0,Canada,634531748,Jacob@lot.com
+Alexander,Jones,410,Arthur Street,New Westminster,Northwest Territories,"L4A 0T3 ",Canada,781861686,Alexander@people.com
+James,Taylor,413,Brunswick Street,Mississauga,Nunavut,H9S 1R4,Canada,212386997,James@group.com
+"",,138,Balcomes Drive,Thunder Bay,Nunavut,E4S 3C4,Canada,645892391,null@family.com
+Liam,Thomas,481,Archibald Avenue,Burlington,Prince Edward Island,E5V 3X5,Canada,821637457,Liam@state.com
+William,Davis,25,Armview Terrace,Langley,Nova Scotia,H0H 3C9,Canada,202719978,William@man.com
+Mason,Williams,441,Cabot Place,Peterborough,Saskatchewan,L3V 1Y8,Canada,448508392,Mason@program.com
+William,Wilson,398,Armstrong Court,Nanaimo,Alberta,T1L 2H8,Canada,1336008051,William@state.com
+William,Johnson,335,Carrington Place,Clarington,Yukon,K1B 3B2,Canada,835985417,William@study.com
+"",Williams,157,Canterbury Close,Saint-Hyacinthe,Manitoba,J0J 3V6,Canada,1404978134,null@group.com
+Mason,Jones,162,Bakers Drive,Kamloops,Saskatchewan,H0H 3C9,Canada,1005413103,Mason@day.com
+"",Wilson,362,Blue Jay Street,Oshawa,Alberta,K1B 3B2,Canada,1358444228,null@year.com
+William,Thomas,453,Abercrombie Lane,Brampton,Northwest Territories,N8H 2H6,Canada,149517795,William@thing.com
+Ethan,Thomas,68,,Blainville,Newfoundland and Labrador,N8H 2H6,Canada,254062217,Ethan@country.com
+Alexander,Johnson,456,Alm-a Ramp,Brampton,Manitoba,H9S 1R4,Canada,1259826668,Alexander@year.com
+"",Thomas,169,Albert Walker Drive,Greater Sudbury,Prince Edward Island,J0N 0Z3,Canada,1108525638,null@world.com
+Alexander,,90,Benjamin Green Drive,Gatineau,Prince Edward Island,L3V 1Y8,Canada,1111914684,Alexander@home.com
+"",Johnson,184,Brodick Lane,Wood Buffalo,Quebec,L3V 1Y8,Canada,1405877237,null@work.com
+"",Wilson,5,Bright Place,Saint-Jean-sur-Richelieu,Nunavut,J9P 1C6,Canada,1132261422,null@book.com
+William,Johnson,371,Bower Road,Sarnia,Nunavut,G6X 2L1,Canada,987857536,William@right.com
+Ethan,Brown,261,Armdale Rotary,Laval,British Columbia,J9P 1C6,Canada,807283293,Ethan@month.com
+Ethan,Johnson,281,Bethany Way,Mirabel,Quebec,L4A 0T0,Canada,264395365,Ethan@student.com
