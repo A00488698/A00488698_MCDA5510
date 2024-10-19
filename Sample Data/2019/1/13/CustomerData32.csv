@@ -1,0 +1,41 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Brown,27,Brockhurst Close,Montreal,Newfoundland and Labrador,"V1K 1V0 ",Canada,367491163,James@eye.com
+Mason,Miller,293,Adams Avenue,St. Albert,Nova Scotia,V8C 0S2,Canada,986486689,Mason@book.com
+James,Johnson,40,Archibald Avenue,Surrey,Nova Scotia,G3E 2K4,Canada,1141684064,James@night.com
+Jacob,Wilson,252,Armdale Rotary,Oakville,Nunavut,N8A 0B3,Canada,297795408,Jacob@group.com
+"",Jones,166,Churchill Drive,Airdrie,Prince Edward Island,J1S 0R4,Canada,932804820,null@work.com
+Mason,Thomas,361,Bedford Row,Delta,Prince Edward Island,"V1K 1V0 ",Canada,272611411,Mason@money.com
+Jacob,Brown,184,Clayton Park Drive,Prince George,Newfoundland and Labrador,K1B 3B2,Canada,643801372,Jacob@month.com
+Mason,Johnson,494,Armoury Place,Welland,Alberta,L4A 0T0,Canada,984086831,Mason@program.com
+Alexander,Jones,119,Catamaran Road,Barrie,Alberta,E7E 3T7,Canada,453085244,Alexander@fact.com
+Liam,Williams,464,Balmoral Road,Vancouver,Quebec,G3E 2K4,Canada,524479276,Liam@word.com
+"",Thomas,318,Acorn Road,Granby,Nova Scotia,E4S 3C4,Canada,547250941,null@day.com
+"",Jackson,105,Archibald Avenue,Richmond Hill,Nova Scotia,G3E 2K4,Canada,246898041,null@day.com
+James,Jones,430,Bently Drive,Richmond Hill,Saskatchewan,E4M 2G2,Canada,251881107,James@country.com
+Jacob,Williams,493,Benalder Lane,Winnipeg,Nunavut,E4M 2G2,Canada,1152627470,Jacob@number.com
+Liam,,492,Albemarle Street,North Bay,Prince Edward Island,G3E 2K4,Canada,413959560,Liam@man.com
+Ethan,Anderson,314,Barracks Drive,Kitchener,Nunavut,B2E 0X4,Canada,1259486441,Ethan@fact.com
+Alexander,Johnson,306,Alm-a Ramp,Drummondville,Nunavut,"L4A 0T3 ",Canada,972588290,Alexander@business.com
+Ethan,Brown,143,Armada Drive,Drummondville,Nunavut,,Canada,101217640,Ethan@job.com
+"",,259,Castle Hill Drive,Oshawa,Northwest Territories,J9T 3H4,Canada,1237199465,null@place.com
+"",Wilson,252,Churchill Drive,Medicine Hat,Saskatchewan,H3J 3P2,Canada,505068827,null@child.com
+Ethan,Brown,155,Adams Avenue,Milton,Quebec,E4S 3C4,Canada,511462283,Ethan@country.com
+James,Davis,451,Burns Drive,Thunder Bay,Nunavut,G6X 2L1,Canada,1140992887,James@room.com
+Ethan,Miller,240,Bryden Avenue,London,Nunavut,L0N 3J2,Canada,1186289161,Ethan@part.com
+Ethan,Wilson,297,Ascot Avenue,Thunder Bay,Quebec,E5V 3X5,Canada,581914584,Ethan@state.com
+James,Anderson,44,Carriageway Crescent,Grande Prairie,Nova Scotia,J0J 3V6,Canada,140023916,James@story.com
+Jacob,Anderson,232,Alm-b Ramp,Saint John,Yukon,L3V 1Y8,Canada,1080662383,Jacob@child.com
+Jacob,Wilson,37,Cascade Drive,Saguenay,Newfoundland and Labrador,V8C 0S2,Canada,202918073,Jacob@company.com
+William,Wilson,223,Aikenhead Road,Barrie,Prince Edward Island,V8B 1P6,Canada,838614336,William@family.com
+Liam,Brown,129,Cherry Street,Markham,Nova Scotia,E7E 3T7,Canada,856777895,Liam@day.com
+Liam,Thomas,417,Bright Place,Red Deer,Nunavut,L3V 1Y8,Canada,739317218,Liam@world.com
+James,Brown,19,Armoury Place,Fredericton,Northwest Territories,,Canada,145822367,James@woman.com
+James,Williams,496,Belmont Road,Saint John,Alberta,N8A 0B3,Canada,655447970,James@question.com
+"",Jones,119,Cambridge Street,St. Catharines,Prince Edward Island,J0N 0Z3,Canada,894572376,null@student.com
+Alexander,Miller,250,Anchor Drive,Vaughan,New Brunswick,L3V 1Y8,Canada,709982876,Alexander@right.com
+Ethan,Davis,472,Blowers Street,Coquitlam,New Brunswick,K1B 3B2,Canada,1266399160,Ethan@man.com
+Mason,Moore,321,Alm-d Ramp,Oshawa,Manitoba,G3H 0B4,Canada,716450401,Mason@child.com
+Alexander,,196,Aikenhead Road,Cambridge,,J0N 0Z3,Canada,1063911087,Alexander@week.com
+James,Jones,442,Adelaide Avenue,Chilliwack,Nova Scotia,J9P 1C6,Canada,992087088,James@number.com
+William,Davis,327,Camelot Lane,Longueuil,Northwest Territories,G3H 0B4,Canada,1187199898,William@student.com
+James,Wilson,15,Armstrong Court,Saguenay,New Brunswick,G3H 0B4,Canada,206861750,James@hand.com

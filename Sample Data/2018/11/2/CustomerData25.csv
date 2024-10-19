@@ -1,0 +1,16 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Ethan,Jones,340,Bermuda Avenue,Surrey,Nunavut,E5V 3X5,Canada,610843322,Ethan@null
+William,Davis,439,Acorn Road,Burnaby,Alberta,H3J 3P2,Canada,523986914,William@month.com
+Mason,Jones,202,Apollo Court,Barrie,Nunavut,J0N 0Z3,Canada,335610722,Mason@question.com
+Liam,Thomas,169,Chelsea Lane,Wood Buffalo,Nunavut,K1B 3B2,Canada,109042611,Liam@work.com
+Alexander,Miller,331,Banbury Close,Cape Breton,Nova Scotia,B2E 0X4,Canada,1302138038,Alexander@company.com
+Alexander,Miller,273,Claremont Street,Maple Ridge,Yukon,N4N 0B9,Canada,1046871130,Alexander@mother.com
+Alexander,,452,Aikens Avenue,Kawartha Lakes,Alberta,E7E 3T7,Canada,566983275,Alexander@problem.com
+Jacob,Anderson,112,Bromley Road,Brantford,Nova Scotia,L9R 0A0,Canada,493367125,Jacob@word.com
+Jacob,Moore,120,Blenheim Terrace,London,Alberta,N8H 2H6,Canada,580739791,Jacob@right.com
+Ethan,Miller,2,Alma Crescent,Surrey,,H0H 3C9,Canada,146690427,Ethan@right.com
+Mason,,281,Albion Road,Quebec City,Northwest Territories,N5C 2J8,Canada,222164333,Mason@business.com
+Jacob,Brown,273,Bedford Windsor Ramp,Chatham-Kent,New Brunswick,L0N 3J2,Canada,839441205,Jacob@job.com
+"",Jones,408,Adelaide Avenue,Guelph,New Brunswick,G6X 2L1,Canada,763273700,null@hand.com
+Liam,Anderson,220,Altavista Lane,Kingston,Manitoba,G0H 2P3,Canada,919988357,Liam@place.com
+Liam,Thomas,253,Auburn Avenue,Airdrie,,N4N 0B9,Canada,337398209,Liam@work.com

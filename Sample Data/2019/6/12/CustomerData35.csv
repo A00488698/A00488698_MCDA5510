@@ -1,0 +1,34 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Jones,438,Alderwood Drive,Saskatoon,Nova Scotia,J0J 3V6,Canada,873424268,James@student.com
+William,Williams,322,Brighton Avenue,Guelph,Quebec,N8A 0B3,Canada,1380674705,William@program.com
+Alexander,Wilson,4,Annandale Street,Moncton,Nunavut,E7E 3T7,Canada,197560180,Alexander@program.com
+Mason,Brown,445,Cherry Lane,New Westminster,Prince Edward Island,B2E 0X4,Canada,429733554,Mason@country.com
+Alexander,Jones,476,Apollo Court,Chilliwack,Quebec,V8C 0S2,Canada,533955296,Alexander@point.com
+James,Brown,365,Brewer Court,Prince George,New Brunswick,"L4A 0T3 ",Canada,337779561,James@eye.com
+Liam,Williams,65,Braeburn Road,Blainville,Nunavut,L4A 0T0,Canada,1088029370,Liam@number.com
+"",Williams,74,Clearview Street,Granby,Prince Edward Island,B2E 0X4,Canada,698892566,null@null
+Ethan,Wilson,132,Alumni Crescent,Blainville,Nunavut,V8C 0S2,Canada,1152512968,Ethan@lot.com
+Ethan,Anderson,46,Alderwood Drive,St. Catharines,Northwest Territories,G6X 2L1,Canada,400010007,Ethan@lot.com
+Ethan,Miller,205,Brewer Court,Thunder Bay,New Brunswick,N4N 0B9,Canada,677322107,Ethan@hand.com
+William,Anderson,457,Abercrombie Lane,Red Deer,Saskatchewan,V8B 1P6,Canada,1357156959,William@state.com
+"",Thomas,446,Almon Street,Clarington,Alberta,J0N 0Z3,Canada,355594107,null@fact.com
+Alexander,Brown,479,Burns Drive,Surrey,Prince Edward Island,N5C 2J8,Canada,963449714,Alexander@time.com
+Alexander,,395,Brook Street,Sault Ste. Marie,Northwest Territories,N4N 0B9,Canada,839356693,Alexander@number.com
+Liam,Moore,321,Acorn Road,Sherbrooke,Manitoba,B2E 0X4,Canada,611531203,Liam@room.com
+James,Taylor,253,Clinton Avenue,Belleville,Nova Scotia,B3V 2V1,Canada,528442013,James@problem.com
+"",Miller,482,Albert Walker Drive,Brantford,Prince Edward Island,G3H 0B4,Canada,1330388689,null@eye.com
+"",Jackson,127,Balcomes Drive,Hamilton,Prince Edward Island,L3V 1Y8,Canada,1258136295,null@mother.com
+Ethan,,65,Alderwood Drive,Cape Breton,New Brunswick,N8H 2H6,Canada,218842572,Ethan@system.com
+Jacob,Anderson,368,Charlton Avenue,Halifax,Northwest Territories,"B0T 0Y5 ",Canada,526028951,Jacob@word.com
+Alexander,,318,Bilton Lane,Brampton,Prince Edward Island,L9R 0A0,Canada,1157927135,Alexander@water.com
+"",Thomas,393,Belle Aire Terrace,Trois-RiviÃ¨res,Alberta,G3E 2K4,Canada,994243969,null@work.com
+Ethan,Johnson,176,Andrew Street,Greater Sudbury,Nunavut,E4S 3C4,Canada,978509019,Ethan@right.com
+Jacob,Taylor,117,Blink Bonnie Terrace,Red Deer,Nova Scotia,H3J 3P2,Canada,453814106,Jacob@program.com
+Ethan,Johnson,426,Bobolink Street,Surrey,Quebec,"B0T 0Y5 ",Canada,454475854,Ethan@program.com
+Mason,Davis,332,Alton Drive,Port Coquitlam,Nunavut,J9P 1C6,Canada,333109805,Mason@month.com
+Jacob,,45,Bauer Street,Waterloo,New Brunswick,L4A 0T0,Canada,460184656,Jacob@student.com
+William,Williams,88,Castlepark Grove,Airdrie,Nunavut,J9P 1C6,Canada,551433428,William@people.com
+James,Jones,432,Beachstone Drive,Kingston,Northwest Territories,L0N 3J2,Canada,231360276,James@night.com
+Mason,Johnson,363,Bakers Drive,Vaughan,Nova Scotia,L9R 0A0,Canada,127544747,Mason@case.com
+"",Wilson,42,Charlotte Lane,Sherbrooke,Newfoundland and Labrador,H9S 1R4,Canada,196177188,null@month.com
+Mason,Thomas,125,Chebucto Road,St. Albert,British Columbia,E7E 3T7,Canada,1237936881,Mason@number.com

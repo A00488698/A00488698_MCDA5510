@@ -1,0 +1,34 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+William,Williams,176,Brenton Street,Halton Hills,Yukon,V8C 0S2,Canada,342466593,William@place.com
+"",Williams,68,Acadia Street,Pickering,Quebec,E4M 2G2,Canada,1330090865,null@home.com
+Mason,,152,Argyle Street,Whitby,Nunavut,E5V 3X5,Canada,297442913,Mason@way.com
+Mason,Jones,84,Berlin Street,Port Coquitlam,Prince Edward Island,H9S 1R4,Canada,958734395,Mason@right.com
+"",Miller,474,Cabot Back Lane,Welland,Nova Scotia,"L4A 0T3 ",Canada,474773701,null@school.com
+Liam,Davis,314,Benalder Lane,Welland,Saskatchewan,L9R 0A0,Canada,417820180,Liam@part.com
+"",Taylor,248,Bilton Lane,Montreal,Northwest Territories,G3H 0B4,Canada,317635586,null@country.com
+James,Davis,223,Bilton Lane,Sault Ste. Marie,Alberta,G3H 0B4,Canada,1362172784,James@part.com
+"",Miller,291,Adelaide Avenue,Sherbrooke,Northwest Territories,E4S 3C4,Canada,759790236,null@place.com
+Liam,Miller,282,Carlina Court,St. John's,British Columbia,L0N 3J2,Canada,506604796,Liam@woman.com
+Ethan,Johnson,24,Black Street,Blainville,Alberta,E4M 2G2,Canada,428552098,Ethan@money.com
+Ethan,Miller,33,Birkdale Crescent,Kitchener,Nunavut,J0J 3V6,Canada,368614713,Ethan@Mr.com
+"",Davis,118,Chebucto Road,Quebec City,New Brunswick,L9R 0A0,Canada,419635147,null@home.com
+Alexander,Jones,450,Clinton Avenue,North Vancouver,Nova Scotia,L9R 0A0,Canada,637972520,Alexander@room.com
+Alexander,Brown,212,Black Street,Kawartha Lakes,Northwest Territories,L3V 1Y8,Canada,439395019,Alexander@place.com
+"",Wilson,491,Chelsea Lane,Calgary,Nova Scotia,J9T 3H4,Canada,139859593,null@lot.com
+Ethan,Davis,498,Boulderwood Road,Red Deer,Newfoundland and Labrador,L0N 3J2,Canada,243357767,Ethan@mother.com
+Alexander,Jones,240,Bently Drive,Nanaimo,Newfoundland and Labrador,E7E 3T7,Canada,300546854,Alexander@business.com
+"",Miller,215,Cherry Lane,Kitchener,Yukon,G3H 0B4,Canada,1066130431,null@group.com
+William,Jackson,463,Alma Crescent,Sault Ste. Marie,Quebec,G3E 2K4,Canada,1222992077,William@story.com
+Ethan,Davis,370,Bakers Drive,Oshawa,Quebec,J0J 3V6,Canada,1082186563,Ethan@group.com
+"",Johnson,99,Archibald Avenue,Clarington,Alberta,J9T 3H4,Canada,514156799,null@government.com
+"",Wilson,158,Bald Eagle Place,Greater Sudbury,Saskatchewan,J9T 3H4,Canada,1337075608,null@part.com
+Mason,Taylor,461,Brodick Lane,Saint-JÃ©rÃ´me,Nunavut,L4A 0T0,Canada,1401465474,Mason@time.com
+Liam,Brown,353,Alm-a Ramp,Cape Breton,,"L4A 0T3 ",Canada,701959743,Liam@work.com
+James,Wilson,436,Aikens Avenue,Airdrie,New Brunswick,G3E 2K4,Canada,1158740311,James@story.com
+Ethan,Brown,375,Bedford Highway,Kamloops,Alberta,G6X 2L1,Canada,1189190248,Ethan@case.com
+"",Moore,418,Cabot Back Lane,Hamilton,Prince Edward Island,B2E 0X4,Canada,884500213,null@right.com
+James,Anderson,344,Banbury Close,Oakville,Manitoba,G6X 2L1,Canada,860022406,James@student.com
+Liam,Thomas,211,Chestnut Street,Norfolk County,British Columbia,J1S 0R4,Canada,1177890984,Liam@night.com
+"",Thomas,342,Broadholme Lane,Mississauga,Alberta,H9S 1R4,Canada,634297951,null@water.com
+William,Brown,381,Ahern Avenue,Victoria,Northwest Territories,E4S 3C4,Canada,465361486,William@null
+James,,70,Armdale Rotary,Cambridge,Prince Edward Island,L0N 3J2,Canada,752727977,James@question.com

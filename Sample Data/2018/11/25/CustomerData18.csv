@@ -1,0 +1,31 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Mason,Brown,389,Chocolate Lake Road,Guelph,Manitoba,E7E 3T7,Canada,636590844,Mason@number.com
+Jacob,Davis,45,Adams Avenue,Prince George,Newfoundland and Labrador,B3V 2V1,Canada,1391364626,Jacob@man.com
+Mason,Davis,319,Claymore Avenue,Burlington,Nunavut,N4N 0B9,Canada,197113792,Mason@home.com
+Jacob,Williams,391,Alm-a Ramp,Vaughan,British Columbia,G3H 0B4,Canada,317848558,Jacob@work.com
+Alexander,Williams,123,Berlin Street,Waterloo,Nova Scotia,N5C 2J8,Canada,1309045602,Alexander@book.com
+Ethan,Johnson,132,Chelton Woods Lane,Longueuil,Nova Scotia,G0H 2P3,Canada,259786064,Ethan@company.com
+Jacob,Jones,460,Briar Place,Oshawa,Newfoundland and Labrador,N4N 0B9,Canada,841602784,Jacob@place.com
+Mason,,453,Alma Crescent,Lethbridge,Nunavut,H0H 3C9,Canada,1010180099,Mason@place.com
+James,Brown,331,Belmont Road,Saguenay,Newfoundland and Labrador,"B0T 0Y5 ",Canada,224138238,James@eye.com
+Alexander,Thomas,326,Barracks Drive,Barrie,Saskatchewan,H3J 3P2,Canada,910076776,Alexander@group.com
+William,Williams,253,Bayview Road,Ajax,Nunavut,N8H 2H6,Canada,1228610666,William@home.com
+Alexander,Wilson,168,Albert Walker Drive,Chatham-Kent,Nova Scotia,B2E 0X4,Canada,1277807712,Alexander@point.com
+"",Miller,491,Birchfield Crescent,Cape Breton,Newfoundland and Labrador,"L4A 0T3 ",Canada,1125787335,null@woman.com
+James,Anderson,28,Brycedale Lane,Port Coquitlam,Yukon,L9R 0A0,Canada,863666781,James@word.com
+William,Williams,500,Burns Drive,Clarington,Manitoba,E4S 3C4,Canada,1144777517,William@year.com
+Jacob,Miller,142,Cedar Street,Port Coquitlam,Nunavut,B2E 0X4,Canada,285341680,Jacob@child.com
+James,Jones,171,Carlton Street,Guelph,Nunavut,"V1K 1V0 ",Canada,602893396,James@student.com
+"",Miller,405,Clearview Street,Kawartha Lakes,Nunavut,"L4A 0T3 ",Canada,248485911,null@group.com
+Ethan,Anderson,390,Bedford Windsor Ramp,Ajax,Prince Edward Island,K1B 3B2,Canada,394238473,Ethan@state.com
+"",Taylor,402,Brewer Court,Guelph,Prince Edward Island,E4M 2G2,Canada,466474594,null@right.com
+James,Anderson,102,Centre Gate,Burlington,Prince Edward Island,L3V 1Y8,Canada,101348863,James@fact.com
+James,Moore,271,Cavendish Road,Brantford,Alberta,V8B 1P6,Canada,525922519,James@home.com
+Alexander,Miller,115,Armcrescent West Avenue,Saint-Jean-sur-Richelieu,New Brunswick,B2E 0X4,Canada,231248550,Alexander@country.com
+William,Anderson,379,Braeburn Road,Moncton,New Brunswick,,Canada,669080594,William@right.com
+Alexander,Thomas,366,Bronson Avenue,Kelowna,Northwest Territories,G3H 0B4,Canada,412656783,Alexander@world.com
+Mason,Miller,487,Chocolate Lake Road,Blainville,,L3V 1Y8,Canada,300064672,Mason@year.com
+"",Jones,50,Aikens Avenue,Vaughan,Nunavut,E4M 2G2,Canada,290120026,null@family.com
+Jacob,Moore,10,Albert Walker Drive,Waterloo,Manitoba,J1S 0R4,Canada,1258353200,Jacob@place.com
+"",Wilson,453,Bond Street,Edmonton,New Brunswick,N5C 2J8,Canada,147195073,null@program.com
+"",Taylor,250,Blenheim Terrace,Saint John,Alberta,N5C 2J8,Canada,283738418,null@woman.com

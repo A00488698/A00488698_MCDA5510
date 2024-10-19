@@ -1,0 +1,19 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Taylor,476,Briar Lane,Moncton,Nunavut,B3V 2V1,Canada,269778148,James@water.com
+Alexander,Brown,151,Abbott Drive,Halton Hills,Alberta,E4M 2G2,Canada,485465863,Alexander@question.com
+Ethan,Brown,462,Basinview Drive,Victoria,Prince Edward Island,N8A 0B3,Canada,405153159,Ethan@thing.com
+"",Davis,346,Attenborough Court,Fredericton,Alberta,K1B 3B2,Canada,616093444,null@year.com
+Ethan,Williams,87,Canterbury Close,Greater Sudbury,British Columbia,G6X 2L1,Canada,383528287,Ethan@null
+James,Moore,51,Bayview Road,Oakville,Prince Edward Island,"B0T 0Y5 ",Canada,657982830,James@year.com
+Mason,Moore,238,Canary Crescent,Saint John,British Columbia,E7E 3T7,Canada,1104095961,Mason@day.com
+Alexander,Williams,264,,Chilliwack,Newfoundland and Labrador,V8B 1P6,Canada,619708721,Alexander@child.com
+"",Johnson,27,Birchview Drive,Oakville,Saskatchewan,L3V 1Y8,Canada,636533520,null@company.com
+"",Thomas,337,Birchview Drive,Ottawa,Manitoba,B2E 0X4,Canada,1397042815,null@word.com
+Alexander,Jackson,269,Bethany Way,Blainville,,N4N 0B9,Canada,315550478,Alexander@room.com
+Ethan,Taylor,102,Ashdale Avenue,Victoria,Saskatchewan,"V1K 1V0 ",Canada,868042190,Ethan@money.com
+Alexander,Thomas,387,Abbott Drive,Longueuil,Prince Edward Island,T1L 2H8,Canada,904297078,Alexander@man.com
+Mason,Williams,449,Brigadier Court,Vancouver,Prince Edward Island,"B0T 0Y5 ",Canada,146002570,Mason@way.com
+Alexander,Johnson,197,Briar Lane,Richmond Hill,Saskatchewan,G6X 2L1,Canada,647477401,Alexander@point.com
+Ethan,Anderson,131,Barracks Drive,Longueuil,Nova Scotia,B3V 2V1,Canada,862181375,Ethan@state.com
+Ethan,Williams,204,Argyle Street,Prince George,Prince Edward Island,V8B 1P6,Canada,290457242,Ethan@story.com
+Alexander,,30,Alm-a Ramp,North Bay,British Columbia,B2E 0X4,Canada,1386449864,Alexander@water.com

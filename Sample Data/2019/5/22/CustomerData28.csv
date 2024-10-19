@@ -1,0 +1,15 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Ethan,Johnson,86,Buffers Lane,Maple Ridge,Newfoundland and Labrador,"L4A 0T3 ",Canada,1255747145,Ethan@company.com
+William,Wilson,340,Carnation Crescent,Maple Ridge,Northwest Territories,G3H 0B4,Canada,1119560576,William@month.com
+Liam,Davis,288,Bayne Street,Guelph,Nunavut,J0N 0Z3,Canada,963184250,Liam@group.com
+William,Jackson,493,Bonaventure Drive,Hamilton,Alberta,G3E 2K4,Canada,581178489,William@life.com
+Alexander,Jones,193,Alm-a Ramp,Vancouver,Northwest Territories,E5V 3X5,Canada,950569342,Alexander@room.com
+Mason,Taylor,217,Battery Drive,Greater Sudbury,Newfoundland and Labrador,E5V 3X5,Canada,1138113814,Mason@case.com
+Mason,Brown,149,Church Street,Saskatoon,Nunavut,N8H 2H6,Canada,532268657,Mason@eye.com
+"",Anderson,92,Black Street,Welland,Prince Edward Island,E7E 3T7,Canada,962049875,null@government.com
+Ethan,Davis,129,Berkshire Close,Gatineau,New Brunswick,B3V 2V1,Canada,1148995349,Ethan@eye.com
+Alexander,Jones,52,Albemarle Street,Welland,Northwest Territories,H9S 1R4,Canada,1392544236,Alexander@life.com
+Alexander,,440,Buffers Lane,Drummondville,Newfoundland and Labrador,K1B 3B2,Canada,286580750,Alexander@people.com
+William,Williams,349,Beechwood Terrace,Surrey,Northwest Territories,H3J 3P2,Canada,126852207,William@government.com
+Mason,Williams,118,Buffers Lane,North Vancouver,Yukon,L3V 1Y8,Canada,958513139,Mason@day.com
+James,Jackson,353,Chessvale Close,Sherbrooke,Quebec,G6X 2L1,Canada,455366002,James@program.com

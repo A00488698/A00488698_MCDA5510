@@ -1,0 +1,21 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Jacob,Thomas,401,Cavendish Road,Lethbridge,Yukon,N4N 0B9,Canada,694323478,Jacob@problem.com
+Ethan,Jones,144,Black Street,Thunder Bay,Nunavut,"L4A 0T3 ",Canada,916490364,Ethan@lot.com
+James,Wilson,145,Berts Drive,Brossard,Northwest Territories,J0J 3V6,Canada,210996773,James@people.com
+Ethan,Jones,245,Birchdale Avenue,Drummondville,Nunavut,H3J 3P2,Canada,376002824,Ethan@group.com
+Ethan,Davis,165,Bermuda Avenue,Kelowna,Quebec,H3J 3P2,Canada,426244232,Ethan@company.com
+"",Johnson,202,Chelton Woods Lane,Waterloo,New Brunswick,L0N 3J2,Canada,1107842185,null@word.com
+Liam,Jackson,115,Claremont Street,North Bay,Northwest Territories,,Canada,841482844,Liam@people.com
+Alexander,Moore,231,Alm-a Ramp,Lethbridge,Nunavut,T1L 2H8,Canada,258774822,Alexander@country.com
+Ethan,Johnson,221,Bison Crescent,Saskatoon,Newfoundland and Labrador,J0J 3V6,Canada,1253368157,Ethan@money.com
+Liam,Miller,497,Clayder Lane,Kamloops,Northwest Territories,T1L 2H8,Canada,384538591,Liam@job.com
+Ethan,Thomas,307,Ahern Avenue,Burlington,Alberta,L9R 0A0,Canada,968421501,Ethan@country.com
+Liam,Davis,454,Benjamin Green Drive,Calgary,Alberta,N4N 0B9,Canada,1120702847,Liam@thing.com
+William,Taylor,186,Armada Drive,Montreal,Alberta,H9S 1R4,Canada,1270780483,William@right.com
+Alexander,Jones,132,Brackley Place,Mississauga,Prince Edward Island,H3J 3P2,Canada,1207545137,Alexander@student.com
+Alexander,Jackson,381,Bedford Highway,Fredericton,Prince Edward Island,L4A 0T0,Canada,628222487,Alexander@government.com
+Alexander,Jones,25,Bishop Street,Coquitlam,Yukon,N8H 2H6,Canada,1224748693,Alexander@null
+"",Williams,383,Ashton Lane,St. Catharines,Prince Edward Island,B3V 2V1,Canada,279091293,null@family.com
+"",Wilson,360,Castine Way,Kawartha Lakes,Prince Edward Island,N5C 2J8,Canada,293264762,null@thing.com
+William,Jackson,348,Brockhurst Close,Windsor,Alberta,E4M 2G2,Canada,627323117,William@point.com
+Ethan,,310,Bliss Street,Port Coquitlam,Newfoundland and Labrador,E4S 3C4,Canada,603417702,Ethan@family.com

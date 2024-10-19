@@ -1,0 +1,31 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Alexander,Jones,297,Brewer Court,Saint John,Prince Edward Island,H0H 3C9,Canada,286175932,Alexander@people.com
+Ethan,Williams,256,Arlington Avenue,Kelowna,Saskatchewan,J9T 3H4,Canada,249953895,Ethan@word.com
+"",Taylor,5,Chain Lake Drive,Grande Prairie,Nova Scotia,J0N 0Z3,Canada,315361770,null@Mr.com
+Jacob,Davis,200,Adams Avenue,Saint John,New Brunswick,G3H 0B4,Canada,161855277,Jacob@government.com
+Alexander,Thomas,399,Blink Bonnie Terrace,Prince George,Alberta,,Canada,1121672075,Alexander@group.com
+"",Williams,142,Barrington Street,Langley,Newfoundland and Labrador,J0J 3V6,Canada,782680572,null@home.com
+Liam,Jones,235,Amirault Court,Barrie,Nova Scotia,B3V 2V1,Canada,864767132,Liam@lot.com
+Jacob,Wilson,167,Bedford Row,Oshawa,British Columbia,B3V 2V1,Canada,580357127,Jacob@part.com
+Ethan,Davis,478,Barrington Street,Waterloo,Manitoba,"V1K 1V0 ",Canada,1340166246,Ethan@job.com
+James,Miller,40,Alm-e Ramp,Belleville,Newfoundland and Labrador,J9P 1C6,Canada,1201405093,James@mother.com
+William,Moore,436,Chipstone Close,Brantford,New Brunswick,V8B 1P6,Canada,770885105,William@year.com
+"",Taylor,153,Alm-e Ramp,Longueuil,Alberta,L9R 0A0,Canada,1399712545,null@case.com
+Ethan,Anderson,400,Bilby Street,Airdrie,Quebec,B2E 0X4,Canada,1185628427,Ethan@company.com
+Mason,Jackson,471,Anchor Drive,Whitby,Prince Edward Island,H3J 3P2,Canada,1391321283,Mason@money.com
+Liam,Anderson,214,Bently Drive,Sherbrooke,British Columbia,H3J 3P2,Canada,906372171,Liam@case.com
+Liam,Taylor,189,Bloomingdale Terrace,St. Catharines,,E7E 3T7,Canada,1269050894,Liam@way.com
+William,Davis,80,Armoury Place,Regina,Manitoba,N8A 0B3,Canada,1143556932,William@point.com
+Mason,,60,Boscobel Road,Cape Breton,New Brunswick,H3J 3P2,Canada,1049543471,Mason@null
+William,Thomas,471,Alm-a Ramp,Grande Prairie,New Brunswick,J0N 0Z3,Canada,814867183,William@group.com
+James,Taylor,461,Campbell Drive,St. John's,Alberta,N8A 0B3,Canada,1156937713,James@program.com
+Liam,Jackson,420,Artillery Place,Oakville,Nova Scotia,N4N 0B9,Canada,857796321,Liam@problem.com
+Ethan,Wilson,22,Ash Lake Court,Red Deer,Northwest Territories,G3H 0B4,Canada,593309637,Ethan@government.com
+"",Taylor,65,Chocolate Lake Road,Windsor,Nunavut,"L4A 0T3 ",Canada,761331418,null@home.com
+Liam,Thomas,421,Canary Crescent,Saint John,Alberta,G0H 2P3,Canada,145671273,Liam@study.com
+Liam,,151,Birchview Drive,Fredericton,Manitoba,H9S 1R4,Canada,311701093,Liam@water.com
+Mason,Williams,262,Chain Rock Drive,Fredericton,Alberta,E4S 3C4,Canada,686044190,Mason@fact.com
+"",Moore,181,Brunswick Street,Welland,Quebec,K1B 3B2,Canada,779508217,null@fact.com
+Ethan,Anderson,29,Cambridge Street,Gatineau,,B3V 2V1,Canada,804842883,Ethan@job.com
+"",Taylor,27,Almon Street,Greater Sudbury,Quebec,L3V 1Y8,Canada,818792987,null@problem.com
+William,Davis,40,Bently Drive,Saint-Jean-sur-Richelieu,Nunavut,"V1K 1V0 ",Canada,1159314760,William@program.com

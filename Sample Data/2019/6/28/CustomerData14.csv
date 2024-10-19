@@ -1,0 +1,38 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Jacob,Johnson,318,Bliss Street,Brampton,Quebec,H0H 3C9,Canada,177909344,Jacob@business.com
+Jacob,Wilson,143,Chain Lake Drive,Brossard,Prince Edward Island,B2E 0X4,Canada,1367388003,Jacob@child.com
+James,Anderson,192,Buffers Lane,Strathcona County,Yukon,L3V 1Y8,Canada,803180353,James@company.com
+"",Miller,146,Churchill Drive,Lethbridge,Nunavut,"V1K 1V0 ",Canada,503788759,null@company.com
+Mason,Wilson,193,Chisholm Avenue,Kawartha Lakes,Nunavut,B3V 2V1,Canada,112695286,Mason@fact.com
+Liam,Taylor,343,Birmingham Street,Saguenay,British Columbia,V8B 1P6,Canada,650286250,Liam@woman.com
+"",Williams,291,Alex Street,Aurora,Manitoba,V8C 0S2,Canada,264691531,null@year.com
+Alexander,Thomas,241,Bridgeview Drive,Drummondville,Saskatchewan,V8B 1P6,Canada,579423296,Alexander@problem.com
+Ethan,,347,Autumn Drive,Brantford,Nunavut,K1B 3B2,Canada,488118022,Ethan@part.com
+Mason,Moore,78,Ballantrae Lane,Kitchener,Nunavut,L4A 0T0,Canada,435601074,Mason@mother.com
+Jacob,Williams,493,Bedros Lane,Nanaimo,Prince Edward Island,E5V 3X5,Canada,369001269,Jacob@child.com
+Ethan,Brown,354,Cloverdale Road,Chatham-Kent,British Columbia,G6X 2L1,Canada,213192197,Ethan@world.com
+Jacob,Anderson,28,Adelaide Avenue,Moncton,Yukon,N4N 0B9,Canada,352931915,Jacob@family.com
+Mason,,312,Bridgeview Drive,Medicine Hat,Alberta,E4S 3C4,Canada,837899107,Mason@group.com
+"",Wilson,208,Cambridge Street,Norfolk County,Manitoba,N4N 0B9,Canada,578982840,null@student.com
+Ethan,Taylor,315,Bryden Avenue,Regina,Saskatchewan,V8B 1P6,Canada,543447453,Ethan@program.com
+William,Anderson,243,Brewer Court,Surrey,Northwest Territories,H0H 3C9,Canada,1126878901,William@company.com
+Alexander,Davis,400,Aikenhead Road,Caledon,Prince Edward Island,L4A 0T0,Canada,1239801441,Alexander@money.com
+Liam,Davis,106,Bliss Street,Saint John,Prince Edward Island,H0H 3C9,Canada,272335845,Liam@woman.com
+"",,440,Beech Street,Maple Ridge,Prince Edward Island,J9T 3H4,Canada,633730011,null@night.com
+Jacob,Wilson,105,Chisholm Avenue,St. Albert,Quebec,J0N 0Z3,Canada,1243596817,Jacob@work.com
+Mason,Thomas,55,Alton Drive,Halton Hills,Prince Edward Island,T1L 2H8,Canada,692556561,Mason@home.com
+Ethan,Miller,95,Brook Street,Richmond,New Brunswick,,Canada,483719903,Ethan@case.com
+William,,181,Ash Lake Court,Halton Hills,Northwest Territories,K1B 3B2,Canada,657545980,William@program.com
+"",Anderson,179,Clayder Lane,Winnipeg,British Columbia,V8B 1P6,Canada,1145095277,null@people.com
+William,Jackson,47,Brighton Avenue,Aurora,Yukon,L4A 0T0,Canada,442654461,William@time.com
+Alexander,Jones,186,Basinview Drive,Regina,Newfoundland and Labrador,G0H 2P3,Canada,315219998,Alexander@job.com
+Alexander,Jones,161,Castlepark Grove,Brossard,Prince Edward Island,J9P 1C6,Canada,612209790,Alexander@job.com
+Liam,Wilson,192,Castine Way,Ottawa,Prince Edward Island,V8C 0S2,Canada,308941395,Liam@case.com
+James,Johnson,180,Bell Road,Airdrie,Prince Edward Island,G0H 2P3,Canada,117832502,James@story.com
+James,Wilson,37,Clifton Street,St. Catharines,New Brunswick,"B0T 0Y5 ",Canada,504585427,James@state.com
+Jacob,Davis,480,Bellevue Avenue,Brossard,Alberta,E4S 3C4,Canada,410237048,Jacob@program.com
+Alexander,Wilson,440,Castlepark Grove,Markham,Nova Scotia,N8H 2H6,Canada,825044385,Alexander@book.com
+Ethan,Taylor,255,Albert Walker Drive,Prince George,Prince Edward Island,J1S 0R4,Canada,429972952,Ethan@group.com
+William,Davis,94,Autumn Drive,Whitby,Saskatchewan,H9S 1R4,Canada,598657201,William@money.com
+Mason,,166,Autumn Drive,Victoria,Prince Edward Island,N5C 2J8,Canada,1133666527,Mason@case.com
+William,Taylor,496,Aurora Avenue,Winnipeg,,J1S 0R4,Canada,644224838,William@null

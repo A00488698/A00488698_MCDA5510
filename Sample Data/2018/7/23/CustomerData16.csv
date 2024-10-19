@@ -1,0 +1,12 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Taylor,478,Centre Gate,Saguenay,Newfoundland and Labrador,G0H 2P3,Canada,955064592,James@work.com
+Ethan,Thomas,226,Cambridge Street,Strathcona County,New Brunswick,L3V 1Y8,Canada,1004463561,Ethan@study.com
+Jacob,Moore,111,Artz Street,Mirabel,Saskatchewan,"V1K 1V0 ",Canada,894874652,Jacob@fact.com
+Ethan,Jones,60,Anchor Drive,Kitchener,Nunavut,L3V 1Y8,Canada,1398602868,Ethan@money.com
+"",Wilson,324,Balmoral Road,Brantford,Prince Edward Island,H3J 3P2,Canada,896942492,null@place.com
+Alexander,Anderson,409,Alm-a Ramp,Vancouver,New Brunswick,J0N 0Z3,Canada,369654669,Alexander@study.com
+Ethan,Moore,282,,Richmond Hill,New Brunswick,L9R 0A0,Canada,1303015396,Ethan@time.com
+Ethan,Taylor,147,Beaufort Avenue,Barrie,New Brunswick,E4S 3C4,Canada,1285359243,Ethan@world.com
+Jacob,Thomas,25,Abbott Drive,Grande Prairie,Newfoundland and Labrador,N8H 2H6,Canada,1333621828,Jacob@job.com
+"",Jones,343,Alm-a Ramp,Coquitlam,Nunavut,E4S 3C4,Canada,812423135,null@day.com
+Jacob,,415,Castlepark Grove,Delta,New Brunswick,H3J 3P2,Canada,324808716,Jacob@night.com

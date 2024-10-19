@@ -1,0 +1,26 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Ethan,Wilson,55,Atlantic Street,Oakville,Prince Edward Island,G3H 0B4,Canada,297667583,Ethan@Mr.com
+James,Wilson,335,Carriageway Crescent,Repentigny,Manitoba,B3V 2V1,Canada,995541503,James@home.com
+Mason,Thomas,157,Artz Street,Regina,New Brunswick,J0J 3V6,Canada,195948108,Mason@job.com
+Alexander,Brown,293,Chelmsford Place,Barrie,Quebec,B3V 2V1,Canada,135262376,Alexander@student.com
+Alexander,Johnson,321,Armview Terrace,Brantford,Northwest Territories,E7E 3T7,Canada,1208215934,Alexander@country.com
+Jacob,Davis,444,Chelsea Lane,Saguenay,Prince Edward Island,J0J 3V6,Canada,305554647,Jacob@family.com
+"",Miller,265,Chebucto Lane,Port Coquitlam,British Columbia,H9S 1R4,Canada,141323663,null@way.com
+Alexander,,31,Chain Rock Drive,Saint John,Prince Edward Island,L9R 0A0,Canada,1244581197,Alexander@way.com
+Mason,Williams,156,Artillery Place,Saint John,Quebec,E4S 3C4,Canada,1190289697,Mason@money.com
+Alexander,Williams,477,Braeside Lane,New Westminster,New Brunswick,E7E 3T7,Canada,1404012357,Alexander@thing.com
+"",Taylor,327,Chain Rock Drive,Vancouver,Northwest Territories,J9T 3H4,Canada,869524880,null@year.com
+Mason,Brown,465,Barrington Street,Longueuil,Nunavut,,Canada,748339484,Mason@school.com
+Alexander,Moore,112,Cabot Place,Airdrie,Northwest Territories,L0N 3J2,Canada,757111279,Alexander@word.com
+Alexander,Thomas,404,Avon Crescent,Sarnia,Alberta,B2E 0X4,Canada,111203613,Alexander@mother.com
+William,Wilson,419,Chipstone Close,Whitby,Northwest Territories,H0H 3C9,Canada,387399479,William@woman.com
+Ethan,Moore,196,Belmont Road,Whitby,Alberta,,Canada,937686357,Ethan@way.com
+William,,325,Artillery Place,Saint-Jean-sur-Richelieu,Nova Scotia,E4M 2G2,Canada,112640529,William@home.com
+Alexander,,288,Cloverdale Road,Brampton,Alberta,L3V 1Y8,Canada,806732699,Alexander@study.com
+Ethan,Williams,338,Arthur Street,Pickering,Nova Scotia,L9R 0A0,Canada,760946292,Ethan@woman.com
+"",,229,Blowers Street,Montreal,Northwest Territories,K1B 3B2,Canada,785288641,null@story.com
+Liam,Jones,238,Alm-a Ramp,Welland,Alberta,"L4A 0T3 ",Canada,440884755,Liam@country.com
+Mason,Jones,223,Anchor Drive,Oakville,Nunavut,,Canada,940665440,Mason@case.com
+"",Johnson,233,Bloomfield Street,Nanaimo,New Brunswick,V8B 1P6,Canada,136310820,null@case.com
+Liam,Jackson,96,Armshore Drive,Medicine Hat,Alberta,N4N 0B9,Canada,121901159,Liam@water.com
+"",Taylor,317,Bishop Street,Winnipeg,Northwest Territories,L9R 0A0,Canada,166838793,null@eye.com

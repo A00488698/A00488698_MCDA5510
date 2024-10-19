@@ -1,0 +1,38 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Mason,Anderson,8,Birch Street,Whitby,Northwest Territories,J1S 0R4,Canada,1138321175,Mason@government.com
+James,Taylor,60,Breen Avenue,Saint John,Saskatchewan,L0N 3J2,Canada,357078988,James@mother.com
+Alexander,Moore,321,Bauer Street,Clarington,Prince Edward Island,L0N 3J2,Canada,880016091,Alexander@world.com
+Ethan,Jones,233,Bristol Place,Ottawa,British Columbia,J0N 0Z3,Canada,625617080,Ethan@work.com
+James,Jackson,334,Blowers Street,Ottawa,Northwest Territories,E4M 2G2,Canada,375101521,James@right.com
+Mason,Anderson,192,Blowers Street,Welland,,"V1K 1V0 ",Canada,534119962,Mason@business.com
+Alexander,Williams,141,Berkshire Close,Moncton,British Columbia,E5V 3X5,Canada,1247300960,Alexander@case.com
+"",Brown,315,Archibald Avenue,Surrey,New Brunswick,"V1K 1V0 ",Canada,1351871389,null@woman.com
+Liam,Anderson,149,Alm-d Ramp,Markham,Alberta,J9T 3H4,Canada,455859614,Liam@man.com
+James,Thomas,5,Aikens Avenue,Cape Breton,Yukon,J9T 3H4,Canada,535383550,James@school.com
+James,Moore,48,Campbell Drive,St. Albert,Manitoba,"V1K 1V0 ",Canada,589735257,James@thing.com
+"",Taylor,16,Bloomingdale Terrace,Sherbrooke,,J0J 3V6,Canada,954378427,null@eye.com
+William,Anderson,412,Adams Avenue,Cape Breton,Manitoba,B2E 0X4,Canada,147629219,William@number.com
+Alexander,Thomas,382,Andrew Street,Blainville,Nunavut,J0N 0Z3,Canada,267034583,Alexander@time.com
+Jacob,Johnson,343,Bliss Street,Brantford,Saskatchewan,L0N 3J2,Canada,194544058,Jacob@month.com
+Ethan,Anderson,45,Caitland Court,Welland,British Columbia,L9R 0A0,Canada,724177223,Ethan@company.com
+James,Wilson,200,Bridget Avenue,Kawartha Lakes,Nova Scotia,N4N 0B9,Canada,1058429310,James@question.com
+"",,469,Bilby Street,North Vancouver,Prince Edward Island,K1B 3B2,Canada,1114375994,null@thing.com
+James,Johnson,2,Amirault Court,Mirabel,British Columbia,N8A 0B3,Canada,827029189,James@year.com
+Jacob,Johnson,444,Birchview Drive,Medicine Hat,British Columbia,N8H 2H6,Canada,166278178,Jacob@money.com
+James,Wilson,79,Alm-a Ramp,Drummondville,Yukon,H3J 3P2,Canada,616617631,James@school.com
+William,,53,Briarwood Crescent,Ottawa,Northwest Territories,"L4A 0T3 ",Canada,346356415,William@case.com
+"",Brown,289,Armcrescent East Drive,Strathcona County,Nova Scotia,N5C 2J8,Canada,1135431373,null@company.com
+"",Jones,436,Chain Rock Drive,Newmarket,Alberta,G0H 2P3,Canada,241169937,null@child.com
+Mason,Williams,247,Chisholm Avenue,Drummondville,Nova Scotia,"V1K 1V0 ",Canada,845037520,Mason@fact.com
+Mason,Williams,281,Benalder Lane,Mississauga,Prince Edward Island,J9T 3H4,Canada,1093661356,Mason@night.com
+Alexander,Davis,239,Argyle Street,Ajax,Saskatchewan,J0J 3V6,Canada,1247631989,Alexander@man.com
+William,Brown,429,Anchor Drive,Cape Breton,New Brunswick,L3V 1Y8,Canada,1122460197,William@way.com
+William,Miller,389,Amirault Court,Drummondville,Northwest Territories,"L4A 0T3 ",Canada,722171633,William@day.com
+Mason,Williams,301,Clayton Park Drive,Oshawa,Manitoba,J9P 1C6,Canada,867607379,Mason@story.com
+William,Thomas,478,Birch Street,Richmond Hill,,H9S 1R4,Canada,174439136,William@right.com
+Ethan,Jones,417,Carnation Crescent,North Bay,Nunavut,H0H 3C9,Canada,574084030,Ethan@story.com
+William,Jones,91,Carlina Court,Saskatoon,Nunavut,J0J 3V6,Canada,1299797156,William@student.com
+William,,464,Blue Willow Court,Brampton,Prince Edward Island,L4A 0T0,Canada,823592355,William@problem.com
+"",Brown,395,Black Street,Saskatoon,Northwest Territories,N8H 2H6,Canada,622862411,null@way.com
+Ethan,,64,Brussels Street,Clarington,Nova Scotia,H9S 1R4,Canada,1405028561,Ethan@right.com
+William,Miller,303,Birchview Drive,Longueuil,Prince Edward Island,J1S 0R4,Canada,635085599,William@study.com

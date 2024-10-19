@@ -1,0 +1,40 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Jacob,Davis,426,Amirault Court,Saint-Hyacinthe,Prince Edward Island,J9P 1C6,Canada,1328262884,Jacob@company.com
+Liam,Davis,43,Bently Drive,Oshawa,Northwest Territories,H3J 3P2,Canada,787671187,Liam@government.com
+Ethan,Miller,367,Birch Cove Lane,Greater Sudbury,Alberta,E7E 3T7,Canada,792339790,Ethan@company.com
+"",Davis,241,Chain Lake Drive,Pickering,Prince Edward Island,N8A 0B3,Canada,835964920,null@day.com
+"",Jones,19,Basinview Drive,Brantford,Quebec,J9P 1C6,Canada,575127432,null@thing.com
+James,Johnson,36,Bloomfield Street,Sault Ste. Marie,New Brunswick,N8A 0B3,Canada,220596688,James@way.com
+Jacob,Williams,345,Armoury Place,Fredericton,Yukon,L4A 0T0,Canada,1271958978,Jacob@question.com
+Jacob,Thomas,285,Bluestone Road,Fredericton,Nova Scotia,T1L 2H8,Canada,1352972663,Jacob@job.com
+Ethan,,365,Barrington Street,Halton Hills,Newfoundland and Labrador,"B0T 0Y5 ",Canada,993487102,Ethan@place.com
+Alexander,Williams,457,Chelmsford Place,Saguenay,Alberta,V8B 1P6,Canada,107324711,Alexander@business.com
+"",Davis,140,Barrington Street,Blainville,Prince Edward Island,L4A 0T0,Canada,1074062494,null@water.com
+Jacob,Jackson,487,Apollo Court,Port Coquitlam,Quebec,E4M 2G2,Canada,1297275294,Jacob@month.com
+Mason,Jackson,414,Apollo Court,Kamloops,Alberta,,Canada,1133177845,Mason@thing.com
+Liam,Thomas,24,Berlin Street,Chatham-Kent,Quebec,H9S 1R4,Canada,989433116,Liam@week.com
+James,Davis,372,Banbury Close,Cambridge,Nunavut,T1L 2H8,Canada,1174575238,James@place.com
+Jacob,Thomas,380,Alm-c Ramp,Blainville,Nunavut,E7E 3T7,Canada,1318589447,Jacob@woman.com
+Jacob,Jones,463,Arlington Avenue,Aurora,New Brunswick,G3E 2K4,Canada,839642723,Jacob@number.com
+William,Miller,275,Buffers Lane,Medicine Hat,British Columbia,E7E 3T7,Canada,609615880,William@school.com
+William,Thomas,217,Bakers Drive,Halifax,Nunavut,E4S 3C4,Canada,1337612955,William@right.com
+James,Anderson,145,Berlin Street,Whitby,Alberta,K1B 3B2,Canada,725204431,James@world.com
+Mason,Davis,167,Armstrong Court,Drummondville,Prince Edward Island,J1S 0R4,Canada,561794311,Mason@right.com
+James,Anderson,4,Bald Eagle Place,Oshawa,Prince Edward Island,B2E 0X4,Canada,1152813839,James@student.com
+"",Anderson,276,Balcomes Drive,Moncton,Manitoba,H9S 1R4,Canada,236095129,null@question.com
+Alexander,Davis,22,Annandale Street,Quebec City,Prince Edward Island,E5V 3X5,Canada,1323729005,Alexander@right.com
+William,Wilson,171,Admirals Way,Saint John,Quebec,G0H 2P3,Canada,903050249,William@eye.com
+Alexander,Jones,361,Blink Bonnie Terrace,Port Coquitlam,Nunavut,"B0T 0Y5 ",Canada,1207206304,Alexander@thing.com
+James,Brown,448,Alex Street,Fredericton,British Columbia,"L4A 0T3 ",Canada,841210411,James@point.com
+Ethan,Johnson,343,Brewer Court,Guelph,Manitoba,N8A 0B3,Canada,350018487,Ethan@lot.com
+Alexander,Davis,116,Bedford Windsor Ramp,Red Deer,Nunavut,B2E 0X4,Canada,608772710,Alexander@room.com
+James,Thomas,383,Chain Rock Drive,Norfolk County,Yukon,L3V 1Y8,Canada,680317102,James@right.com
+"",,457,Cabot Place,Cambridge,Alberta,H0H 3C9,Canada,1245546445,null@country.com
+William,Thomas,91,Borden Street,Oshawa,Northwest Territories,N5C 2J8,Canada,1222079429,William@problem.com
+"",,5,Blink Bonnie Terrace,Ottawa,Newfoundland and Labrador,E5V 3X5,Canada,1064745105,null@place.com
+Alexander,Brown,349,Berkshire Close,Cape Breton,Prince Edward Island,J0N 0Z3,Canada,1000421351,Alexander@number.com
+"",Anderson,142,Almon Street,,Newfoundland and Labrador,N4N 0B9,Canada,1151759989,null@government.com
+Ethan,Anderson,238,Arnold Drive,Terrebonne,Nunavut,"L4A 0T3 ",Canada,1014227798,Ethan@money.com
+Ethan,Brown,404,Bond Street,Red Deer,Yukon,G0H 2P3,Canada,379672275,Ethan@family.com
+Ethan,Moore,104,Boscobel Road,Montreal,New Brunswick,E7E 3T7,Canada,376836428,Ethan@Mr.com
+Alexander,Jackson,395,Altavista Lane,Cape Breton,,V8C 0S2,Canada,651677245,Alexander@program.com

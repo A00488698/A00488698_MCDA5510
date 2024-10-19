@@ -1,0 +1,22 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Jackson,70,Bryden Avenue,Moncton,Nova Scotia,V8C 0S2,Canada,797808347,James@room.com
+Jacob,Brown,197,Braeburn Road,Mississauga,Nunavut,J0J 3V6,Canada,434929484,Jacob@study.com
+Liam,Brown,461,Atlantic Street,Mississauga,Newfoundland and Labrador,N8A 0B3,Canada,1263498630,Liam@story.com
+William,Taylor,331,Caitland Court,Cambridge,Prince Edward Island,H0H 3C9,Canada,1377450254,William@Mr.com
+Ethan,Thomas,304,Bobolink Street,Mississauga,Northwest Territories,H9S 1R4,Canada,117786508,Ethan@money.com
+Liam,Johnson,376,Blue Thistle Road,Guelph,Alberta,J0J 3V6,Canada,1092915341,Liam@right.com
+Alexander,Miller,191,Cedar Street,Oakville,Yukon,G3E 2K4,Canada,1084471760,Alexander@room.com
+Mason,Wilson,86,Birmingham Street,Aurora,Quebec,"B0T 0Y5 ",Canada,104247851,Mason@problem.com
+Jacob,Brown,320,Berts Drive,Moncton,Quebec,J0N 0Z3,Canada,1077351172,Jacob@family.com
+Alexander,Miller,52,Bobolink Street,Brantford,Nova Scotia,J0J 3V6,Canada,151036668,Alexander@thing.com
+William,Thomas,425,Annandale Street,Burlington,Prince Edward Island,J0J 3V6,Canada,501310626,William@part.com
+Jacob,Thomas,253,Carmichael Street,Cape Breton,Quebec,N8H 2H6,Canada,296461271,Jacob@right.com
+"",,37,Albert Place,Halton Hills,,J9P 1C6,Canada,1090581719,null@place.com
+"",Anderson,368,Beaufort Avenue,Laval,Northwest Territories,"V1K 1V0 ",Canada,549051848,null@lot.com
+James,Anderson,150,Annandale Street,North Bay,Northwest Territories,"B0T 0Y5 ",Canada,310524925,James@right.com
+Ethan,Moore,356,Cavendish Road,Vaughan,Prince Edward Island,G6X 2L1,Canada,909344384,Ethan@month.com
+James,Wilson,254,Arlington Avenue,Brantford,British Columbia,H9S 1R4,Canada,490454192,James@thing.com
+Ethan,Moore,441,Caxton Close,Winnipeg,Northwest Territories,H9S 1R4,Canada,380301910,Ethan@book.com
+Alexander,Wilson,103,Charlotte Lane,Kingston,Alberta,N8A 0B3,Canada,900732552,Alexander@place.com
+"",Jones,116,Cabot Place,Surrey,Alberta,H9S 1R4,Canada,880595567,null@case.com
+Liam,Jones,355,Brewer Court,North Vancouver,Yukon,B3V 2V1,Canada,798918065,Liam@money.com

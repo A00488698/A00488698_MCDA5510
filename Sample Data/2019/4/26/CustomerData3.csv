@@ -1,0 +1,29 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Liam,Anderson,145,Bison Crescent,Guelph,Prince Edward Island,J0J 3V6,Canada,506539642,Liam@month.com
+James,Davis,355,Black Street,Pickering,,G0H 2P3,Canada,192071395,James@student.com
+Jacob,Jones,417,Bald Eagle Place,Cape Breton,,N4N 0B9,Canada,512419756,Jacob@group.com
+"",Wilson,218,Berlin Street,Prince George,New Brunswick,J9P 1C6,Canada,1238013185,null@month.com
+Alexander,Miller,445,Cedar Street,Richmond,New Brunswick,G0H 2P3,Canada,187601659,Alexander@thing.com
+Ethan,Davis,432,Chelton Woods Lane,Brossard,,V8C 0S2,Canada,507860357,Ethan@month.com
+William,Brown,34,Blenheim Terrace,Abbotsford,Nunavut,,Canada,1110527703,William@home.com
+James,Moore,225,Bliss Street,St. Catharines,Nova Scotia,"V1K 1V0 ",Canada,713794643,James@time.com
+Liam,Jackson,208,Bilby Street,St. Albert,Nunavut,V8B 1P6,Canada,637325123,Liam@student.com
+"",Miller,197,Clinton Avenue,Regina,Newfoundland and Labrador,J0N 0Z3,Canada,864848942,null@job.com
+Mason,,417,Belmont Road,Victoria,Nova Scotia,L3V 1Y8,Canada,243358006,Mason@problem.com
+"",Thomas,66,Chocolate Lake Road,Fredericton,Prince Edward Island,L3V 1Y8,Canada,774810352,null@world.com
+Jacob,Brown,288,Buffers Lane,Brampton,Alberta,B2E 0X4,Canada,326383462,Jacob@hand.com
+William,Davis,363,Chadwick Place,Pickering,,E4M 2G2,Canada,160057458,William@part.com
+Liam,Taylor,345,Barkton Lane,Halton Hills,Nunavut,K1B 3B2,Canada,1187213207,Liam@place.com
+Ethan,Anderson,310,Bakers Drive,North Vancouver,Alberta,,Canada,1192184574,Ethan@thing.com
+Ethan,Davis,500,Bloomingdale Terrace,Vancouver,Northwest Territories,"B0T 0Y5 ",Canada,1320149908,Ethan@problem.com
+James,Anderson,411,Claremont Street,Lethbridge,Newfoundland and Labrador,,Canada,120629993,James@book.com
+William,Moore,176,Bloomingdale Terrace,Saguenay,Alberta,J0J 3V6,Canada,1263022184,William@people.com
+William,Wilson,178,Blink Bonnie Terrace,Montreal,Prince Edward Island,"B0T 0Y5 ",Canada,340405111,William@question.com
+"",Davis,44,Belmont Road,Richmond,Prince Edward Island,L9R 0A0,Canada,581384416,null@null
+"",Thomas,457,Aster Court,Saskatoon,New Brunswick,N5C 2J8,Canada,703382411,null@word.com
+Mason,Williams,29,Basinview Drive,Halton Hills,Nunavut,G6X 2L1,Canada,610854241,Mason@way.com
+"",Thomas,444,Aldergrove Drive,Blainville,Yukon,H0H 3C9,Canada,282866725,null@case.com
+Jacob,Miller,310,Almon Street,Newmarket,Alberta,B3V 2V1,Canada,396077228,Jacob@number.com
+Alexander,Wilson,474,Armview Terrace,Strathcona County,Nova Scotia,H9S 1R4,Canada,842123897,Alexander@place.com
+Liam,Williams,21,Botany Terrace,Milton,Prince Edward Island,E4S 3C4,Canada,1403283577,Liam@school.com
+"",,205,Allan Street,Saint-Jean-sur-Richelieu,Nunavut,"B0T 0Y5 ",Canada,772677246,null@question.com

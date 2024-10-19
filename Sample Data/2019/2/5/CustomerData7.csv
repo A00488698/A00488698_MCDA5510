@@ -1,0 +1,30 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+William,Johnson,7,Claremont Street,St. Catharines,Alberta,N5C 2J8,Canada,620273503,William@story.com
+Alexander,Taylor,146,Annandale Street,Sault Ste. Marie,New Brunswick,N8H 2H6,Canada,738175806,Alexander@water.com
+"",Miller,259,Cherry Lane,St. Catharines,Nova Scotia,G3E 2K4,Canada,907677272,null@world.com
+James,Anderson,94,Abrams Way,Brantford,Quebec,V8B 1P6,Canada,431428417,James@government.com
+Liam,Wilson,243,Bayne St Ramp,Saint-JÃ©rÃ´me,Alberta,J0J 3V6,Canada,298099110,Liam@way.com
+Alexander,Williams,298,Binney Street,Oakville,Northwest Territories,L3V 1Y8,Canada,379999102,Alexander@water.com
+Liam,Brown,333,Birchview Drive,Coquitlam,Alberta,H3J 3P2,Canada,978679749,Liam@school.com
+Alexander,Moore,429,Cabot Street,Strathcona County,Prince Edward Island,H0H 3C9,Canada,1025216086,Alexander@part.com
+Alexander,,355,Alderwood Drive,Gatineau,Quebec,K1B 3B2,Canada,1066523526,Alexander@right.com
+Liam,Thomas,339,Chisholm Avenue,Victoria,Newfoundland and Labrador,J0N 0Z3,Canada,875807956,Liam@place.com
+Liam,Wilson,386,Blink Bonnie Terrace,Surrey,Nunavut,E4M 2G2,Canada,265977372,Liam@state.com
+Jacob,Davis,204,Clifton Street,North Bay,Saskatchewan,E7E 3T7,Canada,1172996914,Jacob@program.com
+James,Jones,338,Bland Street,Kitchener,Northwest Territories,T1L 2H8,Canada,105685661,James@thing.com
+Liam,Wilson,113,Charlotte Lane,Brossard,New Brunswick,H9S 1R4,Canada,191002275,Liam@book.com
+Ethan,Miller,360,Broadholme Lane,Lethbridge,New Brunswick,N4N 0B9,Canada,676610943,Ethan@world.com
+Ethan,Wilson,351,Chisholm Avenue,Victoria,Manitoba,K1B 3B2,Canada,209848351,Ethan@eye.com
+Liam,Anderson,31,Church Street,Guelph,Nova Scotia,J1S 0R4,Canada,734536617,Liam@way.com
+Jacob,Johnson,190,Canterbury Close,Saint John,Alberta,H0H 3C9,Canada,190856205,Jacob@point.com
+James,Jackson,471,Amberwood Court,St. John's,Nova Scotia,"L4A 0T3 ",Canada,1387520421,James@story.com
+Mason,Thomas,407,Brighton Avenue,Saskatoon,Northwest Territories,"V1K 1V0 ",Canada,1340539669,Mason@null
+"",Taylor,135,Alumni Crescent,Oakville,New Brunswick,J9T 3H4,Canada,1357178049,null@government.com
+Mason,Davis,87,Bower Road,Mississauga,Prince Edward Island,J0J 3V6,Canada,483354255,Mason@life.com
+Ethan,Williams,285,Birch Street,Nanaimo,Newfoundland and Labrador,"V1K 1V0 ",Canada,229097802,Ethan@book.com
+Mason,Wilson,450,Breen Avenue,Brantford,Nunavut,V8B 1P6,Canada,917750876,Mason@time.com
+Jacob,Johnson,232,Auburn Avenue,Niagara Falls,British Columbia,T1L 2H8,Canada,505568047,Jacob@group.com
+Alexander,Williams,78,Cairnwell Close,Waterloo,Northwest Territories,N5C 2J8,Canada,441292179,Alexander@night.com
+Ethan,Jones,86,Clifton Street,Granby,Prince Edward Island,L9R 0A0,Canada,924835318,Ethan@day.com
+William,Jackson,239,Birchfield Crescent,Brossard,Prince Edward Island,K1B 3B2,Canada,1405773005,William@people.com
+Liam,Moore,199,Campbell Drive,Burnaby,Yukon,H9S 1R4,Canada,181144514,Liam@family.com

@@ -1,0 +1,22 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+James,Johnson,75,Aikenhead Road,Burnaby,New Brunswick,J9P 1C6,Canada,572895001,James@point.com
+Ethan,Brown,429,Claremont Street,Thunder Bay,Nunavut,J0N 0Z3,Canada,777553782,Ethan@eye.com
+Liam,Anderson,300,Clearview Street,Burnaby,Saskatchewan,G3E 2K4,Canada,719833252,Liam@case.com
+Jacob,,12,Bauer Street,Saanich,Nunavut,N4N 0B9,Canada,416293613,Jacob@case.com
+Jacob,Anderson,455,Bridgeview Drive,Milton,Alberta,J0N 0Z3,Canada,155560243,Jacob@null
+Mason,Miller,98,Anchor Drive,Chilliwack,Prince Edward Island,N8A 0B3,Canada,1180972540,Mason@world.com
+"",Brown,263,Cedarbrae Lane,Lethbridge,Newfoundland and Labrador,G6X 2L1,Canada,541358468,null@study.com
+James,Johnson,22,Barkton Lane,Kingston,Alberta,E5V 3X5,Canada,430966259,James@business.com
+Mason,Wilson,210,Chebucto Lane,Halifax,Saskatchewan,H9S 1R4,Canada,196503592,Mason@company.com
+"",Thomas,456,Circle Drive,Saskatoon,,"V1K 1V0 ",Canada,852795288,null@child.com
+Ethan,Brown,237,Alm-a Ramp,Langley,Alberta,"L4A 0T3 ",Canada,1000823985,Ethan@year.com
+Mason,Moore,129,Bower Road,Hamilton,Northwest Territories,G3H 0B4,Canada,1367441534,Mason@woman.com
+James,Anderson,352,Barclay Avenue,Moncton,Northwest Territories,E4M 2G2,Canada,1278160021,James@month.com
+Mason,Davis,103,Cascade Drive,Hamilton,Prince Edward Island,G3E 2K4,Canada,590481486,Mason@Mr.com
+"",Davis,275,Circle Drive,North Bay,Prince Edward Island,"L4A 0T3 ",Canada,513704884,null@null
+Ethan,Brown,325,Alumni Crescent,Kitchener,Alberta,"B0T 0Y5 ",Canada,394200887,Ethan@woman.com
+James,Davis,409,Cambridge Street,Drummondville,New Brunswick,,Canada,1124442106,James@government.com
+Ethan,Johnson,260,Blue Jay Street,Abbotsford,Nunavut,H0H 3C9,Canada,670517713,Ethan@year.com
+"",Brown,283,Berlin Street,Longueuil,Alberta,G6X 2L1,Canada,471112461,null@room.com
+Mason,Moore,231,Bison Crescent,Brampton,Yukon,E7E 3T7,Canada,1006116999,Mason@book.com
+Liam,Johnson,497,Alm-d Ramp,Fredericton,Northwest Territories,B2E 0X4,Canada,336148851,Liam@place.com

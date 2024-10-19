@@ -1,0 +1,15 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Jacob,Brown,367,Brenton Street,Guelph,Quebec,N8H 2H6,Canada,1023513319,Jacob@school.com
+Liam,Williams,163,Church Street,Maple Ridge,Quebec,"V1K 1V0 ",Canada,525949520,Liam@fact.com
+James,Davis,391,Ash Lake Court,Fredericton,Nunavut,B2E 0X4,Canada,1402457400,James@question.com
+Jacob,Miller,95,Chestnut Street,Barrie,Alberta,V8B 1P6,Canada,1299150427,Jacob@story.com
+Mason,Jones,209,Charlotte Lane,Sault Ste. Marie,Nunavut,N8A 0B3,Canada,637454100,Mason@state.com
+Liam,Johnson,333,Clovis Avenue,Saguenay,Nunavut,J0N 0Z3,Canada,1170019223,Liam@family.com
+"",Brown,9,Birchwood Drive,Victoria,Prince Edward Island,J0N 0Z3,Canada,449789545,null@year.com
+"",,204,Bridges Street,Trois-RiviÃ¨res,Yukon,L4A 0T0,Canada,1383526651,null@way.com
+Jacob,,402,Bilby Street,Pickering,Alberta,K1B 3B2,Canada,1334218250,Jacob@year.com
+Liam,Brown,164,Bloomfield Street,Blainville,Nunavut,N4N 0B9,Canada,135856526,Liam@business.com
+Mason,Brown,172,Banbury Close,LÃ©vis,Yukon,"L4A 0T3 ",Canada,524353686,Mason@book.com
+Ethan,Moore,57,Bayne Street,Prince George,Northwest Territories,L0N 3J2,Canada,409141487,Ethan@book.com
+Jacob,Taylor,462,Bristol Place,Thunder Bay,Newfoundland and Labrador,H0H 3C9,Canada,285019520,Jacob@Mr.com
+Alexander,Thomas,226,Bedford Row,London,New Brunswick,E7E 3T7,Canada,1234381655,Alexander@company.com

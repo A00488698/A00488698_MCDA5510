@@ -1,0 +1,35 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Liam,Anderson,326,Clinton Avenue,Norfolk County,British Columbia,T1L 2H8,Canada,988827999,Liam@business.com
+James,Wilson,207,Bedford Row,Fredericton,New Brunswick,K1B 3B2,Canada,865518647,James@world.com
+Ethan,Thomas,65,Attenborough Court,Brampton,Prince Edward Island,L0N 3J2,Canada,1206752738,Ethan@family.com
+Liam,Brown,457,Arthur Street,St. Catharines,Northwest Territories,B3V 2V1,Canada,1360853658,Liam@night.com
+Ethan,Anderson,493,Bright Street,Newmarket,Yukon,E7E 3T7,Canada,301653502,Ethan@eye.com
+Alexander,Jones,275,Cascade Drive,Greater Sudbury,Newfoundland and Labrador,J0J 3V6,Canada,951527755,Alexander@group.com
+"",Brown,415,Chisholm Avenue,Cape Breton,Newfoundland and Labrador,N4N 0B9,Canada,942203890,null@job.com
+Jacob,Davis,302,Aurora Avenue,Maple Ridge,New Brunswick,J0J 3V6,Canada,291736148,Jacob@time.com
+James,Jackson,161,Clinton Avenue,Kelowna,Yukon,G0H 2P3,Canada,668382489,James@way.com
+Liam,Johnson,320,Clovis Avenue,Whitby,Newfoundland and Labrador,"L4A 0T3 ",Canada,837167344,Liam@case.com
+Alexander,Thomas,2,Armview Terrace,Terrebonne,Prince Edward Island,N8H 2H6,Canada,224356339,Alexander@country.com
+"",Jones,299,Alm-a Ramp,Newmarket,Alberta,"V1K 1V0 ",Canada,499432498,null@student.com
+Mason,Jones,250,Armstrong Court,Saanich,Nunavut,L4A 0T0,Canada,905353459,Mason@home.com
+Liam,Moore,25,Bauer Street,Burlington,Northwest Territories,N8A 0B3,Canada,303220176,Liam@right.com
+Liam,Thomas,66,Carlina Court,Kingston,Saskatchewan,L9R 0A0,Canada,397609636,Liam@word.com
+William,Davis,41,Athlone Avenue,North Vancouver,Nunavut,B3V 2V1,Canada,136218759,William@null
+Ethan,Wilson,103,Ash Lake Court,St. Catharines,New Brunswick,V8C 0S2,Canada,361091218,Ethan@thing.com
+Jacob,,268,Carlina Court,Cape Breton,Newfoundland and Labrador,N4N 0B9,Canada,899873847,Jacob@number.com
+Alexander,Wilson,202,Bryden Avenue,Belleville,Newfoundland and Labrador,B2E 0X4,Canada,141614475,Alexander@problem.com
+William,Thomas,134,Abrams Way,Clarington,New Brunswick,J1S 0R4,Canada,122331743,William@study.com
+"",,313,Chain Lake Drive,Mississauga,New Brunswick,B3V 2V1,Canada,1234740754,null@company.com
+"",,192,Alm-a Ramp,Nanaimo,Saskatchewan,J0J 3V6,Canada,762858939,null@job.com
+Jacob,Brown,125,Arvida Avenue,Wood Buffalo,Prince Edward Island,J1S 0R4,Canada,1015411523,Jacob@week.com
+Liam,Jackson,400,Brodick Lane,Blainville,Nova Scotia,L0N 3J2,Canada,1222670406,Liam@story.com
+William,Thomas,405,Albert Street,Waterloo,Yukon,B2E 0X4,Canada,653575616,William@water.com
+"",Jones,3,Bellevue Avenue,Winnipeg,British Columbia,L9R 0A0,Canada,1210666753,null@country.com
+"",Thomas,250,Bison Crescent,St. Catharines,Alberta,B3V 2V1,Canada,1124016221,null@state.com
+William,Thomas,252,Barracks Drive,St. Catharines,Saskatchewan,V8C 0S2,Canada,1382449211,William@world.com
+William,Johnson,472,Chisholm Avenue,Guelph,Nova Scotia,V8C 0S2,Canada,569741670,William@government.com
+Alexander,Johnson,375,Armcrescent East Drive,Grande Prairie,Quebec,G3E 2K4,Canada,1295613226,Alexander@school.com
+James,Jones,472,Armcrescent West Avenue,Markham,Nunavut,J0J 3V6,Canada,1260579659,James@problem.com
+William,Jones,79,Beachstone Drive,Cape Breton,Alberta,E4S 3C4,Canada,543614251,William@day.com
+Mason,Taylor,450,Aikens Avenue,Pickering,Prince Edward Island,L4A 0T0,Canada,345240551,Mason@woman.com
+James,Taylor,150,Abrams Way,Newmarket,New Brunswick,L4A 0T0,Canada,664038149,James@state.com

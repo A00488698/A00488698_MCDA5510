@@ -1,0 +1,15 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Alexander,Brown,398,Caxton Close,Port Coquitlam,Manitoba,N8H 2H6,Canada,400085337,Alexander@people.com
+Mason,Moore,106,Altavista Lane,Chilliwack,Northwest Territories,"B0T 0Y5 ",Canada,1122124107,Mason@word.com
+William,Taylor,19,Boscobel Road,Milton,Prince Edward Island,E4S 3C4,Canada,1143248201,William@part.com
+Ethan,Jones,406,Bishop Street,Ajax,Alberta,N8H 2H6,Canada,366947265,Ethan@time.com
+Jacob,Williams,348,Brussels Street,Guelph,Alberta,V8B 1P6,Canada,913230989,Jacob@week.com
+William,Johnson,112,Cherry Lane,Cambridge,Nunavut,"B0T 0Y5 ",Canada,1169866589,William@time.com
+Mason,,267,Ashdale Avenue,Guelph,Prince Edward Island,G3E 2K4,Canada,153094361,Mason@people.com
+Mason,Miller,481,Alderwood Drive,Medicine Hat,Prince Edward Island,H9S 1R4,Canada,1371185452,Mason@world.com
+Mason,Jackson,30,Armcrescent West Avenue,Cape Breton,Newfoundland and Labrador,N8A 0B3,Canada,1189127482,Mason@family.com
+Liam,Moore,223,Carrington Place,Saint-Hyacinthe,Nunavut,V8B 1P6,Canada,206937217,Liam@group.com
+"",Jones,32,Blowers Street,Chatham-Kent,Prince Edward Island,V8C 0S2,Canada,684683061,null@null
+Ethan,Brown,336,Bethany Way,Richmond,British Columbia,"L4A 0T3 ",Canada,848351754,Ethan@life.com
+Ethan,,68,Alm-a Ramp,Fredericton,Nunavut,G6X 2L1,Canada,816694076,Ethan@student.com
+Ethan,Brown,276,Albert Place,Airdrie,Alberta,J0J 3V6,Canada,1362148914,Ethan@family.com

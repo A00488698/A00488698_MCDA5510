@@ -1,0 +1,34 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Ethan,Davis,306,Bald Eagle Place,Strathcona County,New Brunswick,E7E 3T7,Canada,1278708003,Ethan@right.com
+Ethan,Thomas,441,Belle Aire Terrace,Oakville,Prince Edward Island,K1B 3B2,Canada,1200797112,Ethan@way.com
+Alexander,Wilson,490,Blue Willow Court,Aurora,Manitoba,N8H 2H6,Canada,278301687,Alexander@child.com
+Alexander,,489,Bobolink Street,LÃ©vis,Quebec,H9S 1R4,Canada,470781012,Alexander@program.com
+Mason,Thomas,133,Bayne Street,Kelowna,Prince Edward Island,H9S 1R4,Canada,305138039,Mason@problem.com
+Liam,Taylor,40,Carlina Court,Niagara Falls,Manitoba,N5C 2J8,Canada,106720500,Liam@world.com
+"",Davis,80,Brunswick Street,Sherbrooke,Newfoundland and Labrador,K1B 3B2,Canada,958441453,null@money.com
+James,Moore,288,Abercrombie Lane,Newmarket,New Brunswick,L4A 0T0,Canada,1182797682,James@job.com
+"",Taylor,497,Brewer Court,North Bay,Northwest Territories,K1B 3B2,Canada,517071245,null@point.com
+James,Williams,407,Aster Court,Norfolk County,Nova Scotia,"B0T 0Y5 ",Canada,738948928,James@study.com
+"",,196,Albion Road,Granby,Manitoba,E4M 2G2,Canada,682164196,null@group.com
+Ethan,,442,Alm-e Ramp,Brantford,Nova Scotia,E7E 3T7,Canada,1303988193,Ethan@business.com
+"",Taylor,308,Ascot Avenue,Brantford,Prince Edward Island,L4A 0T0,Canada,1157220314,null@part.com
+Mason,Wilson,286,Carroll Lane,Burlington,Prince Edward Island,V8B 1P6,Canada,1147649147,Mason@day.com
+"",Miller,220,Brockhurst Close,Barrie,British Columbia,H9S 1R4,Canada,444932680,null@water.com
+William,Miller,455,Armcrescent East Drive,Burlington,Alberta,G3H 0B4,Canada,909981544,William@time.com
+William,Anderson,31,Arlington Avenue,Drummondville,Nunavut,N4N 0B9,Canada,1249692118,William@program.com
+Liam,Anderson,343,Avon Crescent,Cape Breton,Northwest Territories,V8C 0S2,Canada,1404170688,Liam@study.com
+Liam,Brown,389,Chipstone Close,Mississauga,Alberta,B2E 0X4,Canada,623737562,Liam@case.com
+Mason,Miller,413,Chain Rock Drive,Greater Sudbury,Alberta,H3J 3P2,Canada,471495688,Mason@student.com
+"",Moore,6,Carlton Street,Winnipeg,Nunavut,J0N 0Z3,Canada,761137388,null@point.com
+"",Anderson,37,Agricola Street,Strathcona County,Prince Edward Island,B3V 2V1,Canada,1324679056,null@group.com
+James,Jones,352,Annandale Street,North Vancouver,New Brunswick,L0N 3J2,Canada,1037357171,James@home.com
+"",Wilson,151,Aster Court,Kitchener,Quebec,V8C 0S2,Canada,1075494970,null@day.com
+"",Jones,233,Chessvale Close,Saint-Jean-sur-Richelieu,Northwest Territories,G3E 2K4,Canada,1134930243,null@thing.com
+"",Davis,480,Bermuda Avenue,Sault Ste. Marie,New Brunswick,L3V 1Y8,Canada,295947683,null@school.com
+Ethan,Jones,217,Charles Street,Victoria,Quebec,H3J 3P2,Canada,522558889,Ethan@hand.com
+Ethan,Moore,2,Artillery Place,Ajax,Nova Scotia,K1B 3B2,Canada,742595291,Ethan@state.com
+"",Jones,242,Churchill Drive,Pickering,Alberta,E5V 3X5,Canada,318524453,null@place.com
+Ethan,Taylor,169,Argyle Street,Sault Ste. Marie,New Brunswick,N8H 2H6,Canada,330792189,Ethan@work.com
+James,Davis,413,Cedarbrae Lane,New Westminster,Prince Edward Island,G0H 2P3,Canada,1230289053,James@student.com
+Jacob,Brown,101,Berlin Street,Winnipeg,Northwest Territories,N8H 2H6,Canada,1014172918,Jacob@thing.com
+Jacob,Johnson,369,Beaufort Avenue,St. Albert,Northwest Territories,N4N 0B9,Canada,962150351,Jacob@right.com

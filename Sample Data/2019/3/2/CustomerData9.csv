@@ -1,0 +1,12 @@
+First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address
+Mason,Anderson,185,Bluestone Road,Lethbridge,Quebec,K1B 3B2,Canada,1364142278,Mason@man.com
+Ethan,Williams,308,Albert Place,Winnipeg,Prince Edward Island,E4S 3C4,Canada,907590512,Ethan@study.com
+Ethan,Johnson,19,Carmichael Street,Waterloo,Alberta,H9S 1R4,Canada,797117050,Ethan@mother.com
+"",Williams,255,Aurora Avenue,Airdrie,Prince Edward Island,N4N 0B9,Canada,925544635,null@school.com
+Liam,Wilson,451,Briar Place,Prince George,Nunavut,L0N 3J2,Canada,1044442833,Liam@work.com
+Jacob,Moore,57,Beaufort Avenue,Vancouver,New Brunswick,"L4A 0T3 ",Canada,488966916,Jacob@company.com
+James,Davis,128,Arvida Avenue,Peterborough,,J1S 0R4,Canada,1336936599,James@room.com
+Ethan,Anderson,235,Athlone Avenue,Peterborough,Northwest Territories,G6X 2L1,Canada,576807241,Ethan@thing.com
+Ethan,Wilson,493,Albert Place,Winnipeg,Alberta,N8A 0B3,Canada,179711092,Ethan@work.com
+Mason,,81,Chelsea Lane,Quebec City,Manitoba,V8B 1P6,Canada,1170606899,Mason@group.com
+Ethan,Taylor,380,Alm-a Ramp,Waterloo,,"L4A 0T3 ",Canada,268399966,Ethan@null
